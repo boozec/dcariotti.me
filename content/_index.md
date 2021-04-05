@@ -18,8 +18,7 @@ I started with PHP, such a lovely script language used by me for MMORPG fansites
 had to start somewhere, don't you think? I hacked in many languages before starting work.
 Now I'm focusing Python/JS for work and C++ and Rust for love.
 
-Anyway, I'm a beer lover (as you can see from the picture above page) and an amateur cook. You can see the places (restaurants and pubs) I
-visited [here](/pubs).
+Anyway, I'm a beer lover (as you can see from the picture above page) and an amateur cook.
 
 I'm also a cinephile, or almost, I was before to start the university. Time is
 always less and less, but I'm tracking (since november, 2020) the movies I
