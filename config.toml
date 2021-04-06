@@ -3,8 +3,6 @@ compile_sass = true
 build_search_index = true
 generate_feed = true
 feed_filename = "rss.xml"
-[paginator]
-paginate_by = 3
 
 [markdown]
 highlight_code = true
