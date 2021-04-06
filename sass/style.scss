@@ -278,9 +278,18 @@ nav {
 //
 
 .posts > .post {
-  margin-bottom: 2em;  
-  padding-bottom: 2em;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
   border-bottom: 1px solid $lightGray;
+  h1 {
+    margin: 0;
+    font-size: 1.4em;
+  }
+  .date {
+    height: auto;
+    line-height: auto;
+    font-size: 1em;
+  }
 }
 
 pre {
@@ -310,11 +319,6 @@ img.center {
 
   .comments {
     margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
   }
 
   .date {

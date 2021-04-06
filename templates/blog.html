@@ -11,12 +11,8 @@
   {% for post in paginator.pages %}
     <article class="post card">
       <div class="card-body">
-        <span class="date" style="float:right">{{ post.date|date(format="%B %e, %Y") }}</span>
+        <span class="date">{{ post.date|date(format="%B %e, %Y") }}</span>
         <h1><a href="{{ post.permalink }}">{{ post.title }}</a></h1>
-        <div class="entry">
-          {{ post.content | safe | striptags | truncate(length=300) }}...
-        </div>
-        <a href="{{ post.permalink }}" class="read-more">Read More</a>
       </div>
     </article>
   {% endfor %}
