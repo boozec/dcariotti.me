@@ -6,13 +6,13 @@ title = "About"
 ## Who I am
 ![me.jpg](/i/me.jpg)
 
-Hello, I am __Santo__ and I'm a software engineer and computer science
-student at University of Catania.
+Hello, I am __Santo__ and I'm a software engineer (or I like say that) and computer
+science student at University of Catania.
 
-Maybe, saying "software engineer" is a word too big, but I started to hack the
-internet since I was 10, and I will never stop to thank my parents for "installing"
-Internet in my home. In those years Internet was a niche thing and only for
-nerds, or almost, it was for my peers.
+I have been hacking the Internet since I was 10, and I will never stop to thanking
+my parents for bringing the Internet to my home. In those years the Internet was a niche
+thing and only for nerds, or almost, it was for my classmates. C'mon, I was at
+elementary school.
 
 I started with PHP, such a lovely script language used by me for MMORPG fansites. I
 had to start somewhere, don't you think? I hacked in many languages before starting work.
