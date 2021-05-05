@@ -4,6 +4,9 @@ title = "Movies"
 +++
 
 ## 2021
+### [Anna Karenina (2012)](https://www.imdb.com/title/tt1781769/) &middot; `may, 5th`
+### [Suicide Squad](https://www.imdb.com/title/tt1386697/) &middot; `may, 2nd`
+### [Star Wars: Episode I - The Phantom Menace](https://www.imdb.com/title/tt0120915/) &middot; `apr, 26th`
 ### [Star Wars: Episode VI - Return of the Jedi](https://www.imdb.com/title/tt0086190/) &middot; `apr, 19th`
 ### [The King's Speech](https://www.imdb.com/title/tt1504320/) &middot; `apr, 17th`
 ### [Star Wars: Episode V - The Empire Strikes Back](https://www.imdb.com/title/tt0080684/) &middot; `apr, 9th`
