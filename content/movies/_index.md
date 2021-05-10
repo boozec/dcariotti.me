@@ -4,6 +4,8 @@ title = "Movies"
 +++
 
 ## 2021
+### [Star Wars: Episode II - Attack of the Clones](https://www.imdb.com/title/tt0121765/) &middot; `may, 10th`
+### [Extraction](https://www.imdb.com/title/tt8936646/) &middot; `may, 8th`
 ### [Anna Karenina (2012)](https://www.imdb.com/title/tt1781769/) &middot; `may, 5th`
 ### [Suicide Squad](https://www.imdb.com/title/tt1386697/) &middot; `may, 2nd`
 ### [Star Wars: Episode I - The Phantom Menace](https://www.imdb.com/title/tt0120915/) &middot; `apr, 26th`
