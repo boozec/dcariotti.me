@@ -4,6 +4,8 @@ title = "Movies"
 +++
 
 ## 2021
+### [Star Wars: Episode VII - The Force Awakens](https://www.imdb.com/title/tt2488496/) &middot; `may, 14th`
+### [Star Wars: Episode III - Revenge of the Sith](https://www.imdb.com/title/tt0121766/) &middot; `may, 13rd`
 ### [Star Wars: Episode II - Attack of the Clones](https://www.imdb.com/title/tt0121765/) &middot; `may, 10th`
 ### [Extraction](https://www.imdb.com/title/tt8936646/) &middot; `may, 8th`
 ### [Anna Karenina (2012)](https://www.imdb.com/title/tt1781769/) &middot; `may, 5th`
