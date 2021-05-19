@@ -26,8 +26,7 @@ watch. The list is [here](/movies).
 
 Since june 2020 I have become aware of the privacy issues of many softwares and
 architectures we use everyday. I moved in a privacy-direction also thanks to
-[Tor](https://torproject.org) and [Signal](https://signal.org), proceeding in a
-[degoogling](https://reddit.com/r/degoogle) way.
+[Tor](https://torproject.org) and [Signal](https://signal.org).
 
 In the grey section you can contact me in many and many ways, so It's useless
 rewrite those links here. But, if you want to touch me intimately (don't think
