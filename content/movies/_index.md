@@ -4,6 +4,8 @@ title = "Movies"
 +++
 
 ## 2021
+### [Luca](https://www.imdb.com/title/tt12801262/) &middot; `jul, 2nd`
+### [Nerve (2016)](https://www.imdb.com/title/tt3531824/) &middot; `jun, 29th`
 ### [Star Wars: Episode VIII - The Last Jedi](https://www.imdb.com/title/tt02527336/) &middot; `may, 16th`
 ### [Star Wars: Episode VII - The Force Awakens](https://www.imdb.com/title/tt2488496/) &middot; `may, 14th`
 ### [Star Wars: Episode III - Revenge of the Sith](https://www.imdb.com/title/tt0121766/) &middot; `may, 13rd`
