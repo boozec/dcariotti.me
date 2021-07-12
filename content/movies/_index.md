@@ -4,6 +4,8 @@ title = "Movies"
 +++
 
 ## 2021
+### [Boyhood](https://www.imdb.com/title/tt1065073/) &middot; `jul, 10th`
+### [El Hoyo](https://www.imdb.com/title/tt8228288/) &middot; `jul, 10th`
 ### [Luca](https://www.imdb.com/title/tt12801262/) &middot; `jul, 2nd`
 ### [Nerve (2016)](https://www.imdb.com/title/tt3531824/) &middot; `jun, 29th`
 ### [Star Wars: Episode VIII - The Last Jedi](https://www.imdb.com/title/tt02527336/) &middot; `may, 16th`
