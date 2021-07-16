@@ -4,6 +4,7 @@ title = "Movies"
 +++
 
 ## 2021
+### [Star Wars: Episode IX - The Rise of Skywalker](https://www.imdb.com/title/tt2527338/) &middot; `jul, 16th`
 ### [Boyhood](https://www.imdb.com/title/tt1065073/) &middot; `jul, 10th`
 ### [El Hoyo](https://www.imdb.com/title/tt8228288/) &middot; `jul, 10th`
 ### [Luca](https://www.imdb.com/title/tt12801262/) &middot; `jul, 2nd`
