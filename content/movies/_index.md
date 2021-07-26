@@ -4,6 +4,9 @@ title = "Movies"
 +++
 
 ## 2021
+### [Deadpool 2](https://www.imdb.com/title/tt5463162/) &middot; `jul, 26th`
+### [Deadpool](https://www.imdb.com/title/tt1431045/) &middot; `jul, 24th`
+### [Che: Part One](https://www.imdb.com/title/tt0892255/) &middot; `jul, 22nd`
 ### [Star Wars: Episode IX - The Rise of Skywalker](https://www.imdb.com/title/tt2527338/) &middot; `jul, 16th`
 ### [Boyhood](https://www.imdb.com/title/tt1065073/) &middot; `jul, 10th`
 ### [El Hoyo](https://www.imdb.com/title/tt8228288/) &middot; `jul, 10th`
