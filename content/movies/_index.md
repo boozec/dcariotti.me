@@ -4,6 +4,8 @@ title = "Movies"
 +++
 
 ## 2021
+### [Corpse Bride](https://www.imdb.com/title/tt0121164/) &middot; `jul, 28th`
+### [Time Trap](https://www.imdb.com/title/tt4815122/) &middot; `jul, 28th`
 ### [Deadpool 2](https://www.imdb.com/title/tt5463162/) &middot; `jul, 26th`
 ### [Deadpool](https://www.imdb.com/title/tt1431045/) &middot; `jul, 24th`
 ### [Che: Part One](https://www.imdb.com/title/tt0892255/) &middot; `jul, 22nd`
