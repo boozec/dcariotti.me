@@ -4,6 +4,10 @@ title = "Movies"
 +++
 
 ## 2021
+### [The Tourist](https://www.imdb.com/title/tt1243957/) &middot; `aug, 16th`
+### [Ted](https://www.imdb.com/title/tt1637725/) &middot; `aug, 7th`
+### [Wasp Network](https://www.imdb.com/title/tt6760876/) &middot; `jul, 31th`
+### [Che: Part Two](https://www.imdb.com/title/tt0374569/) &middot; `jul, 29th`
 ### [Corpse Bride](https://www.imdb.com/title/tt0121164/) &middot; `jul, 28th`
 ### [Time Trap](https://www.imdb.com/title/tt4815122/) &middot; `jul, 28th`
 ### [Deadpool 2](https://www.imdb.com/title/tt5463162/) &middot; `jul, 26th`
