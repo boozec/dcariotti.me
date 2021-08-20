@@ -4,6 +4,9 @@ title = "Movies"
 +++
 
 ## 2021
+### [Thor: Ragnarok](https://www.imdb.com/title/tt3501632/) &middot; `aug, 20th`
+### [Can You Ever Forgive Me?](https://www.imdb.com/title/tt4595882/) &middot; `aug, 20th`
+### [Fight Club](https://www.imdb.com/title/tt0137523/) &middot; `aug, 18th`
 ### [The Tourist](https://www.imdb.com/title/tt1243957/) &middot; `aug, 16th`
 ### [Ted](https://www.imdb.com/title/tt1637725/) &middot; `aug, 7th`
 ### [Wasp Network](https://www.imdb.com/title/tt6760876/) &middot; `jul, 31th`
