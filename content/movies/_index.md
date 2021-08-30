@@ -4,6 +4,8 @@ title = "Movies"
 +++
 
 ## 2021
+### [Everest](https://www.imdb.com/title/tt2719848/) &middot; `aug, 29th`
+### [22 July](https://www.imdb.com/title/tt7280898/) &middot; `aug, 29th`
 ### [Into The Wild](https://www.imdb.com/title/tt0758758/) &middot; `aug, 23rd`
 ### [Thor: Ragnarok](https://www.imdb.com/title/tt3501632/) &middot; `aug, 20th`
 ### [Can You Ever Forgive Me?](https://www.imdb.com/title/tt4595882/) &middot; `aug, 20th`
