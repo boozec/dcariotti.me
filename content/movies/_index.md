@@ -4,6 +4,7 @@ title = "Movies"
 +++
 
 ## 2021
+### [Free Guy](https://www.imdb.com/title/tt6264654/) &middot; `oct, 10th`
 ### [Sound of Metal](https://www.imdb.com/title/tt5363618/) &middot; `aug, 31th`
 ### [Biking Borders](https://www.imdb.com/title/tt11188850/) &middot; `aug, 31th`
 ### [Isole D'Istanti](https://www.imdb.com/title/tt11773504/) &middot; `aug, 30th`
