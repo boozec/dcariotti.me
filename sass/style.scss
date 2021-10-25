@@ -22,7 +22,8 @@ html {
 
 body {
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $lightGray;
+  background-color: #353b43;
 }
 
 .container {
@@ -48,7 +49,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #fff;
   font-weight: bold;
 
   line-height: 1.7;
@@ -63,9 +64,9 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: $blue;
+    color: #c0392b;
     &:hover {
-      color: $blue;
+      color: #e74c3c;
       text-decoration: none;
     }
   }
@@ -89,12 +90,12 @@ p {
 }
 
 a {
-  color: lighten($blue, 20%);
+  color: lighten($green, 20%) !important;
   text-decoration: none;
   cursor: pointer;
   font-weight: 400;
   &:hover, &:active {
-    color: lighten($blue, 25%);
+    color: lighten($green, 25%);
   }
 }
 
@@ -176,8 +177,7 @@ img {
 }
 
 .masthead {
-  border-bottom: 1px solid #eee;
-  background: #fafafa;
+  border: 1px solid #7f8c8d;
   padding: 1em;
   border-radius: 2px;
 
@@ -225,7 +225,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #fff !important;
   font-size: 15px;
 
   @include mobile {
@@ -237,7 +237,7 @@ img {
   display: block;
   padding: 35px 0 0 0;
   text-align: center;
-  color: #999;
+  color: $lightGray !important;
 }
 
 nav {
@@ -262,14 +262,18 @@ nav {
     &:hover {
       color: $darkGray;
       text-decoration: none;
-      border-bottom: 2px $darkGray solid;
+      border-bottom: 2px lighten($green, 20%) solid;
       padding-bottom: 3px;
     }
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $green;
     }
+  }
+
+  i.fab, i.fas {
+    color: $white;
   }
 }
 
@@ -281,6 +285,8 @@ nav {
   margin-bottom: 1em;
   padding-bottom: 1em;
   border-bottom: 1px solid $lightGray;
+  background: transparent;
+  border-radius: 0;
   h1 {
     margin: 0;
     font-size: 1.4em;
@@ -289,6 +295,7 @@ nav {
     height: auto;
     line-height: auto;
     font-size: 1em;
+    float: right;
   }
 }
 
@@ -304,7 +311,7 @@ img.center {
 
 .post {
   h1 {
-    color: $blue;
+    color: $green;
     margin: 0 0 1em;
   }
 
@@ -345,4 +352,8 @@ footer {
 
 code {
   font-family: "Ubuntu mono", sans-serif;
+}
+
+table {
+  background-color: $white;
 }
