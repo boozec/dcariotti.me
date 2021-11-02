@@ -4,6 +4,8 @@ title = "Movies"
 +++
 
 ## 2021
+### [The Guilty](https://www.imdb.com/title/tt9421570/) &middot; `nov, 1st`
+### [The Nightmare Before Christmas](https://www.imdb.com/title/tt0107688/) &middot; `oct, 31th`
 ### [The Hobbit: An Unexpected Journey](https://www.imdb.com/title/tt0903624/) &middot; `oct, 30th`
 ### [Free Guy](https://www.imdb.com/title/tt6264654/) &middot; `oct, 10th`
 ### [Sound of Metal](https://www.imdb.com/title/tt5363618/) &middot; `aug, 31th`
