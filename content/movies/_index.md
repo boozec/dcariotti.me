@@ -4,6 +4,7 @@ title = "Movies"
 +++
 
 ## 2021
+### [The Hobbit: The Desolation of Smaug](https://www.imdb.com/title/tt1170358/) &middot; `nov, 6th`
 ### [The Guilty](https://www.imdb.com/title/tt9421570/) &middot; `nov, 1st`
 ### [The Nightmare Before Christmas](https://www.imdb.com/title/tt0107688/) &middot; `oct, 31th`
 ### [The Hobbit: An Unexpected Journey](https://www.imdb.com/title/tt0903624/) &middot; `oct, 30th`
