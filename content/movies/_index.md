@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2021
 
+### [Harry Potter and the Chamber of Secrets](https://www.imdb.com/title/tt0295297/) &middot; `dev, 8th`
+
 ### [Harry Potter and the Sorcerer's Stone](https://www.imdb.com/title/tt0241527/) &middot; `nov, 21st`
 
 ### [The Hobbit: The Desolation of Smaug](https://www.imdb.com/title/tt1170358/) &middot; `nov, 6th`
