@@ -5,6 +5,12 @@ title = "Movies"
 
 ## 2021
 
+### [Holidate](https://www.imdb.com/title/tt9866072/) &middot; `dev, 28th`
+
+### [White Chicks](https://www.imdb.com/title/tt0381707/) &middot; `dev, 28th`
+
+### [Harry Potter and the Prisoner of Azkaban](https://www.imdb.com/title/tt0304141/) &middot; `dev, 18th`
+
 ### [Catch Me If You Can](https://www.imdb.com/title/tt0264464/) &middot; `dev, 12nd`
 
 ### [Harry Potter and the Chamber of Secrets](https://www.imdb.com/title/tt0295297/) &middot; `dev, 8th`
