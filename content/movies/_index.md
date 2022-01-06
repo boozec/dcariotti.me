@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Burnt](https://www.imdb.com/title/tt2503944/) &middot; `jan, 5th`
+
 ### [Tre Uomini e Una Gamba](https://www.imdb.com/title/tt0135007/) &middot; `jan, 5th`
 
 ## 2021
