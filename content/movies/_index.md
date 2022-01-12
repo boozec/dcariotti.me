@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Don't Look Up](https://www.imdb.com/title/tt11286314/) &middot; `jan, 9th`
+
 ### [Burnt](https://www.imdb.com/title/tt2503944/) &middot; `jan, 5th`
 
 ### [Tre Uomini e Una Gamba](https://www.imdb.com/title/tt0135007/) &middot; `jan, 5th`
