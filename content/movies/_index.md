@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Avengers: Infinity War](https://www.imdb.com/title/tt4154756/) &middot; `jan, 15th`
+
 ### [Black Panther](https://www.imdb.com/title/tt1825683/) &middot; `jan, 15th`
 
 ### [Don't Look Up](https://www.imdb.com/title/tt11286314/) &middot; `jan, 9th`
