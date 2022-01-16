@@ -5,6 +5,10 @@ title = "Movies"
 
 ## 2022
 
+### [Captain Marvel](https://www.imdb.com/title/tt4154664/) &middot; `jan, 16th`
+
+### [Ant-Man and the Wasp](https://www.imdb.com/title/tt5095030/) &middot; `jan, 16th`
+
 ### [Avengers: Infinity War](https://www.imdb.com/title/tt4154756/) &middot; `jan, 15th`
 
 ### [Black Panther](https://www.imdb.com/title/tt1825683/) &middot; `jan, 15th`
