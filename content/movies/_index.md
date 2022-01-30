@@ -5,6 +5,10 @@ title = "Movies"
 
 ## 2022
 
+### [Green Street Hooligans](https://www.imdb.com/title/tt0385002/) &middot; `jan, 30th`
+
+### [The Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/) &middot; `jan, 29th`
+
 ### [Avengers: Endgame](https://www.imdb.com/title/tt4154796/) &middot; `jan, 23rd`
 
 ### [Captain Marvel](https://www.imdb.com/title/tt4154664/) &middot; `jan, 16th`
