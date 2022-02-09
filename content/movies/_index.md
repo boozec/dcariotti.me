@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Central Intelligence](https://www.imdb.com/title/tt1489889/) &middot; `feb, 7th`
+
 ### [Francesco de Carlo: Cose di Questo Mondo](https://www.imdb.com/title/tt10087952/) &middot; `feb, 1st`
 
 ### [Green Street Hooligans](https://www.imdb.com/title/tt0385002/) &middot; `jan, 30th`
