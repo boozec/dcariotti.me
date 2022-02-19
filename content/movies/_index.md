@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Boris - Il film](https://www.imdb.com/title/tt1680058/) &middot; `feb, 19th`
+
 ### [Central Intelligence](https://www.imdb.com/title/tt1489889/) &middot; `feb, 7th`
 
 ### [Francesco de Carlo: Cose di Questo Mondo](https://www.imdb.com/title/tt10087952/) &middot; `feb, 1st`
