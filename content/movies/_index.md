@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [The Theory of Everything](https://www.imdb.com/title/tt2980516/) &middot; `mar, 8th`
+
 ### [About Time](https://www.imdb.com/title/tt2194499/) &middot; `mar, 6th`
 
 ### [Boris - Il film](https://www.imdb.com/title/tt1680058/) &middot; `feb, 19th`
