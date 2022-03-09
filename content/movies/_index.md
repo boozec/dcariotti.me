@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Simon Amstell: Set Free](https://www.imdb.com/title/tt10687642/) &middot; `mar, 9th`
+
 ### [The Theory of Everything](https://www.imdb.com/title/tt2980516/) &middot; `mar, 8th`
 
 ### [About Time](https://www.imdb.com/title/tt2194499/) &middot; `mar, 6th`
