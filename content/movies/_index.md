@@ -5,6 +5,10 @@ title = "Movies"
 
 ## 2022
 
+### [A Beautiful Bind](https://www.imdb.com/title/tt0268978/) &middot; `apr, 2nd`
+
+### [The Imitation Game](https://www.imdb.com/title/tt2084970/) &middot; `mar, 30th`
+
 ### [Première année](https://www.imdb.com/title/tt1954754/) &middot; `mar, 25th`
 
 ### [Simon Amstell: Set Free](https://www.imdb.com/title/tt10687642/) &middot; `mar, 9th`
