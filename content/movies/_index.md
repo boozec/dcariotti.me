@@ -5,7 +5,9 @@ title = "Movies"
 
 ## 2022
 
-### [A Beautiful Bind](https://www.imdb.com/title/tt0268978/) &middot; `apr, 2nd`
+### [Sherlock Holmes](https://www.imdb.com/title/tt0988045/) &middot; `apr, 12nd`
+
+### [A Beautiful Mind](https://www.imdb.com/title/tt0268978/) &middot; `apr, 2nd`
 
 ### [The Imitation Game](https://www.imdb.com/title/tt2084970/) &middot; `mar, 30th`
 
