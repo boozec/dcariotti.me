@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Yes Man](https://www.imdb.com/title/tt1068680/) &middot; `may, 1st`
+
 ### [Return to Space](https://www.imdb.com/title/tt18555320/) &middot; `apr, 19th`
 
 ### [Sherlock Holmes: A Game of Shadows](https://www.imdb.com/title/tt1515091/) &middot; `apr, 14th`
