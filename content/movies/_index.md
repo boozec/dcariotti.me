@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [12 Years a Slave](https://www.imdb.com/title/tt2024544/) &middot; `may, 12nd`
+
 ### [Yes Man](https://www.imdb.com/title/tt1068680/) &middot; `may, 1st`
 
 ### [Return to Space](https://www.imdb.com/title/tt18555320/) &middot; `apr, 19th`
