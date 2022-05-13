@@ -10,15 +10,11 @@ title = "About"
 Hello, I am **Santo** and I'm a software engineer (or I like say that) and computer
 science student at University of Catania.
 
-I have been hacking the Internet since I was 10, and I will never stop to thanking
-my parents for bringing the Internet to my home. In those years I was called
-"nerd" by my classmates. C'mon, I was at elementary school.
+I started with PHP, such a lovely script language used by me for MMORPG fansites.
+I hacked in many languages before starting work. Now I'm focusing Python/JS for
+work and C++ and Rust for love.
 
-I started with PHP, such a lovely script language used by me for MMORPG fansites. I
-had to start somewhere, don't you think? I hacked in many languages before starting work.
-Now I'm focusing Python/JS for work and C++ and Rust for love.
-
-Anyway, I'm a beer lover (as you can see from the picture above page) and an amateur cook.
+I'm a beer lover (as you can see from the picture above page) and an amateur cook.
 
 I'm also a cinephile, or almost, I was before the university. Time is
 always less and less, but I'm tracking (since november, 2020) the movies I
