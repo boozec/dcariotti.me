@@ -44,7 +44,7 @@
                     <a href="{{ config.base_url }}/movies">Movies</a>
                     <!--<a href="{{ config.base_url }}/pubs">Pubs</a>-->
                   </nav>
-                  <nav>
+                  <nav class="icons">
                     {% if config.extra.social_git %}<a href="{{ config.extra.social_git }}" target="_blank"><i class="fab fa-git"></i></a>{% endif %}
                     {% if config.extra.social_github %}<a href="https://github.com/{{ config.extra.social_github }}" target="_blank"><i class="fab fa-github"></i></a>{% endif %}
                     {% if config.extra.social_gitlab %}<a href="https://gitlab.com/{{ config.extra.social_gitlab }}" target="_blank"><i class="fab fa-gitlab"></i></a>{% endif %}
@@ -68,6 +68,7 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
+          <span>fonts: <a href="https://github.com/belluzj/fantasque-sans" target="_blank" class="fantasque">Fantasque Sans Mono</a> and <a href="https://design.ubuntu.com/font/" target="_blank">Ubuntu</a></span>
           <span style="display: block">built with <a href="https://www.getzola.org/" target="_blank">zola</a></span>
         </footer>
       </div>

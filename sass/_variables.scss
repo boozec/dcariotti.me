@@ -11,12 +11,11 @@ $darkerGray: #222;
 $darkGray: #333;
 $gray: #95a5a6;
 $lightGray: #afbac4;
-$white: #fff;
+$white: #fafafa;
 
 // Font stacks
 $helvetica: Ubuntu, Helvetica, Arial, sans-serif;
-$helveticaNeue: Ubuntu, "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$fantasque: "Fantasque Sans Mono", Ubuntu, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {

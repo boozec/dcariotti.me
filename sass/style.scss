@@ -23,7 +23,7 @@ html {
 body {
   font: 18px/1.4 $helvetica;
   color: $lightGray;
-  background-color: #353b43;
+  background-color: #010409;
 }
 
 .container {
@@ -48,14 +48,18 @@ body {
   margin-top: 0;
 }
 
+.fantasque {
+  font-family: $fantasque;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: $helveticaNeue;
-  color: #fff;
+  font-family: $fantasque;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
@@ -100,6 +104,7 @@ a {
   text-decoration: none;
   cursor: pointer;
   font-weight: 400;
+  font-family: $fantasque;
   &:hover,
   &:active {
     color: lighten($green, 25%);
@@ -230,7 +235,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $fantasque;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -238,7 +243,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #fff !important;
+  color: $white !important;
   font-size: 15px;
 
   @include mobile {
@@ -256,7 +261,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $fantasque;
   font-size: 18px;
 
   @include mobile {
@@ -283,6 +288,10 @@ nav {
       margin: 0 10px;
       color: $green;
     }
+  }
+
+  &.icons a {
+    margin-left: 10px;
   }
 
   i.fab,
