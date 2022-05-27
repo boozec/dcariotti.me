@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Harry Potter and the Goblet of Fire](https://www.imdb.com/title/tt0330373/) &middot; `may, 27th`
+
 ### [Interstate 60: Episodes of the Road](https://www.imdb.com/title/tt0165832/) &middot; `may, 22nd`
 
 ### [12 Years a Slave](https://www.imdb.com/title/tt2024544/) &middot; `may, 12nd`
@@ -57,15 +59,15 @@ title = "Movies"
 
 ## 2021
 
-### [Holidate](https://www.imdb.com/title/tt9866072/) &middot; `dev, 28th`
+### [Holidate](https://www.imdb.com/title/tt9866072/) &middot; `dec, 28th`
 
-### [White Chicks](https://www.imdb.com/title/tt0381707/) &middot; `dev, 28th`
+### [White Chicks](https://www.imdb.com/title/tt0381707/) &middot; `dec, 28th`
 
-### [Harry Potter and the Prisoner of Azkaban](https://www.imdb.com/title/tt0304141/) &middot; `dev, 18th`
+### [Harry Potter and the Prisoner of Azkaban](https://www.imdb.com/title/tt0304141/) &middot; `dec, 18th`
 
-### [Catch Me If You Can](https://www.imdb.com/title/tt0264464/) &middot; `dev, 12nd`
+### [Catch Me If You Can](https://www.imdb.com/title/tt0264464/) &middot; `dec, 12nd`
 
-### [Harry Potter and the Chamber of Secrets](https://www.imdb.com/title/tt0295297/) &middot; `dev, 8th`
+### [Harry Potter and the Chamber of Secrets](https://www.imdb.com/title/tt0295297/) &middot; `dec, 8th`
 
 ### [Harry Potter and the Sorcerer's Stone](https://www.imdb.com/title/tt0241527/) &middot; `nov, 21st`
 
