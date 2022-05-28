@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Joker](https://www.imdb.com/title/tt7286456/) &middot; `may, 28th`
+
 ### [Harry Potter and the Goblet of Fire](https://www.imdb.com/title/tt0330373/) &middot; `may, 27th`
 
 ### [Interstate 60: Episodes of the Road](https://www.imdb.com/title/tt0165832/) &middot; `may, 22nd`
