@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Green Book](https://www.imdb.com/title/tt6966692/) &middot; `jun, 3rd`
+
 ### [Joker](https://www.imdb.com/title/tt7286456/) &middot; `may, 28th`
 
 ### [Harry Potter and the Goblet of Fire](https://www.imdb.com/title/tt0330373/) &middot; `may, 27th`
