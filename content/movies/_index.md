@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Ratatouille](https://www.imdb.com/title/tt0382932/) &middot; `jun, 5th`
+
 ### [Green Book](https://www.imdb.com/title/tt6966692/) &middot; `jun, 3rd`
 
 ### [Joker](https://www.imdb.com/title/tt7286456/) &middot; `may, 28th`
