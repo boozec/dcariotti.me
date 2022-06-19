@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [The Hunchback of Notre Dame](https://www.imdb.com/title/tt0116583/) &middot; `jun, 18th`
+
 ### [Virgin Territory](https://www.imdb.com/title/tt0437954/) &middot; `jun, 11st`
 
 ### [Ratatouille](https://www.imdb.com/title/tt0382932/) &middot; `jun, 5th`
