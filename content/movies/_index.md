@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Pirates of the Caribbean: The Curse of the Black Pearl](https://www.imdb.com/title/tt0325980/) &middot; `jun, 22nd`
+
 ### [The Hunchback of Notre Dame](https://www.imdb.com/title/tt0116583/) &middot; `jun, 18th`
 
 ### [Virgin Territory](https://www.imdb.com/title/tt0437954/) &middot; `jun, 11st`
