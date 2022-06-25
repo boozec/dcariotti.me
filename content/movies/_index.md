@@ -5,6 +5,10 @@ title = "Movies"
 
 ## 2022
 
+### [Marriage Story](https://www.imdb.com/title/tt7653254/) &middot; `jun, 25th`
+
+### [The Adam Project](https://www.imdb.com/title/tt2463208/) &middot; `jun, 25th`
+
 ### [Pirates of the Caribbean: Dead Man's Chest](https://www.imdb.com/title/tt0383574/) &middot; `jun, 23rd`
 
 ### [Pirates of the Caribbean: The Curse of the Black Pearl](https://www.imdb.com/title/tt0325980/) &middot; `jun, 22nd`
