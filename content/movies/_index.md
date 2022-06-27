@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Toscana](https://www.imdb.com/title/tt13276352/) &middot; `jun, 27th`
+
 ### [Marriage Story](https://www.imdb.com/title/tt7653254/) &middot; `jun, 25th`
 
 ### [The Adam Project](https://www.imdb.com/title/tt2463208/) &middot; `jun, 25th`
