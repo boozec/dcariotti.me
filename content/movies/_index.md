@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Elvis](https://www.imdb.com/title/tt3704428/) &middot; `jul, 1st`
+
 ### [Toscana](https://www.imdb.com/title/tt13276352/) &middot; `jun, 27th`
 
 ### [Marriage Story](https://www.imdb.com/title/tt7653254/) &middot; `jun, 25th`
