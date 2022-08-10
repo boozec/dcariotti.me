@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [The Intern](https://www.imdb.com/title/tt2361509/) &middot; `aug, 9th`
+
 ### [Elvis](https://www.imdb.com/title/tt3704428/) &middot; `jul, 1st`
 
 ### [Toscana](https://www.imdb.com/title/tt13276352/) &middot; `jun, 27th`
