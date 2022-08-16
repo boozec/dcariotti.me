@@ -5,6 +5,10 @@ title = "Movies"
 
 ## 2022
 
+### [House of Gucci](https://www.imdb.com/title/tt11214590/) &middot; `aug, 11st`
+
+### [Charlie and the Chocolate Factory](https://www.imdb.com/title/tt0367594/) &middot; `aug, 11st`
+
 ### [The Intern](https://www.imdb.com/title/tt2361509/) &middot; `aug, 9th`
 
 ### [Elvis](https://www.imdb.com/title/tt3704428/) &middot; `jul, 1st`
