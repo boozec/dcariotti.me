@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Eat Pray Love](https://www.imdb.com/title/tt0879870/) &middot; `aug, 21st`
+
 ### [House of Gucci](https://www.imdb.com/title/tt11214590/) &middot; `aug, 11st`
 
 ### [Charlie and the Chocolate Factory](https://www.imdb.com/title/tt0367594/) &middot; `aug, 11st`
