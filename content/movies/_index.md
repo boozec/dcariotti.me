@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Egon Schiele: Tod und Mädchen](https://www.imdb.com/title/tt4558396/) &middot; `aug, 24th`
+
 ### [Eat Pray Love](https://www.imdb.com/title/tt0879870/) &middot; `aug, 21st`
 
 ### [House of Gucci](https://www.imdb.com/title/tt11214590/) &middot; `aug, 11st`
