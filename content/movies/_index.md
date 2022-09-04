@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [The Lord of the Rings: The Fellowship of the Ring](https://www.imdb.com/title/tt0120737/) &middot; `sep, 4th`
+
 ### [The Electrical Life of Louis Wain](https://www.imdb.com/title/tt10687506/) &middot; `aug, 25th`
 
 ### [Egon Schiele: Tod und Mädchen](https://www.imdb.com/title/tt4558396/) &middot; `aug, 24th`
