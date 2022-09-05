@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Silver Linings Playbook](https://www.imdb.com/title/tt1045658/) &middot; `sep, 4th`
+
 ### [The Lord of the Rings: The Fellowship of the Ring](https://www.imdb.com/title/tt0120737/) &middot; `sep, 4th`
 
 ### [The Electrical Life of Louis Wain](https://www.imdb.com/title/tt10687506/) &middot; `aug, 25th`
