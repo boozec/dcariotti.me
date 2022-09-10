@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [The Lord of the Rings: The Two Towers](https://www.imdb.com/title/tt0167261/) &middot; `sep, 8th`
+
 ### [Silver Linings Playbook](https://www.imdb.com/title/tt1045658/) &middot; `sep, 4th`
 
 ### [The Lord of the Rings: The Fellowship of the Ring](https://www.imdb.com/title/tt0120737/) &middot; `sep, 4th`
