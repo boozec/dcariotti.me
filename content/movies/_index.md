@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [The Lord of the Rings: The Return of the King](https://www.imdb.com/title/tt0167260/) &middot; `sep, 20th`
+
 ### [Papillon](https://www.imdb.com/title/tt5093026/) &middot; `sep, 12nd`
 
 ### [The Lord of the Rings: The Two Towers](https://www.imdb.com/title/tt0167261/) &middot; `sep, 8th`
