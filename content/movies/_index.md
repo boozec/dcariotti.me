@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Brothers](https://www.imdb.com/title/tt0765010/) &middot; `oct, 3rd`
+
 ### [The Hobbit: The Battle of the Five Armies](https://www.imdb.com/title/tt2310332/) &middot; `sep, 27th`
 
 ### [The Lord of the Rings: The Return of the King](https://www.imdb.com/title/tt0167260/) &middot; `sep, 20th`
