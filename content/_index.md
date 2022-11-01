@@ -22,3 +22,5 @@ In the grey section you can contact me in many and many ways, so It's useless
 rewrite those links here. But, if you want to touch me intimately (don't think
 dirty) you can contact me at _santo [at] dcariotti [dot] me_.
 Here it is [my key](/public.pgp) and my fingerprint `F422 EE52 8943 260C 5632 C1A5 C9B7 C8FD 3701 C2C6`.
+
+![map](/map.png)
