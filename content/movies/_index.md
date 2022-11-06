@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Snatch](https://www.imdb.com/title/tt0208092/) &middot; `nov, 3rd`
+
 ### [Brothers](https://www.imdb.com/title/tt0765010/) &middot; `oct, 3rd`
 
 ### [The Hobbit: The Battle of the Five Armies](https://www.imdb.com/title/tt2310332/) &middot; `sep, 27th`
