@@ -50,7 +50,7 @@
                     {% if config.extra.social_gitlab %}<a href="https://gitlab.com/{{ config.extra.social_gitlab }}" target="_blank"><i class="fab fa-gitlab"></i></a>{% endif %}
                     {% if config.extra.social_instagram %}<a href="https://instagram.com/{{ config.extra.social_instagram }}" target="_blank"><i class="fab fa-instagram"></i></a>{% endif %}
                     {% if config.extra.social_linkedin %}<a href="https://www.linkedin.com/in/{{ config.extra.social_linkedin }}" target="_blank"><i class="fab fa-linkedin"></i></a>{% endif %}
-                    {% if config.extra.social_keybase %}<a href="https://keybase.io/{{ config.extra.social_keybase }}"><i class="fab fa-keybase"></i></a>{% endif %}
+                    {% if config.extra.social_mastodon %}<a href="https://{{ config.extra.social_mastodon }}"><i class="fab fa-mastodon"></i></a>{% endif %}
                     {% if config.generate_feed %}<a href="{{ get_url(path="rss.xml", trailing_slash=false) }}"><i class="fas fa-rss"></i></a>{% endif %}
                   </nav>
                 </header>
