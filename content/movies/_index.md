@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Avatar](https://www.imdb.com/title/tt0499549/) &middot; `dec, 18th`
+
 ### [Skyggen i mit øje](https://www.imdb.com/title/tt9170516/) &middot; `dec, 7th`
 
 ### [Snatch](https://www.imdb.com/title/tt0208092/) &middot; `nov, 3rd`
