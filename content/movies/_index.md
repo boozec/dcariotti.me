@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Tutta la vita davanti](https://www.imdb.com/title/tt1075114/) &middot; `dec, 23rd`
+
 ### [Fantastic Beasts: The Crimes of Grindelwald](https://www.imdb.com/title/tt4123430/) &middot; `dec, 21st`
 
 ### [Fantastic Beasts and Where to Find Them](https://www.imdb.com/title/tt0499549/) &middot; `dec, 18th`
