@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [The Professor and the Madman](https://www.imdb.com/title/tt5932728/) &middot; `dec, 26th`
+
 ### [Tutta la vita davanti](https://www.imdb.com/title/tt1075114/) &middot; `dec, 23rd`
 
 ### [Fantastic Beasts: The Crimes of Grindelwald](https://www.imdb.com/title/tt4123430/) &middot; `dec, 21st`
