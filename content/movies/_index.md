@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [The Dark Knight](https://www.imdb.com/title/tt0468569/) &middot; `dec, 26th`
+
 ### [The Professor and the Madman](https://www.imdb.com/title/tt5932728/) &middot; `dec, 26th`
 
 ### [Tutta la vita davanti](https://www.imdb.com/title/tt1075114/) &middot; `dec, 23rd`
