@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2022
 
+### [Avatar: The Way of Water](https://www.imdb.com/title/tt1630029/) &middot; `dec, 28th`
+
 ### [The Dark Knight](https://www.imdb.com/title/tt0468569/) &middot; `dec, 26th`
 
 ### [The Professor and the Madman](https://www.imdb.com/title/tt5932728/) &middot; `dec, 26th`
