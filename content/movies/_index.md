@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [The Good Nurse](https://www.imdb.com/title/tt4273800/) &middot; `jan, 2nd`
+
 ### [Drive](https://www.imdb.com/title/tt0780504/) &middot; `jan, 1st`
 
 ## 2022
