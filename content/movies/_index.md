@@ -37,7 +37,7 @@ title = "Movies"
 
 ### [The Lord of the Rings: The Return of the King](https://www.imdb.com/title/tt0167260/) &middot; `sep, 20th`
 
-### [Papillon](https://www.imdb.com/title/tt5093026/) &middot; `sep, 12nd`
+### [Papillon](https://www.imdb.com/title/tt5093026/) &middot; `sep, 12th`
 
 ### [The Lord of the Rings: The Two Towers](https://www.imdb.com/title/tt0167261/) &middot; `sep, 8th`
 
@@ -51,9 +51,9 @@ title = "Movies"
 
 ### [Eat Pray Love](https://www.imdb.com/title/tt0879870/) &middot; `aug, 21st`
 
-### [House of Gucci](https://www.imdb.com/title/tt11214590/) &middot; `aug, 11st`
+### [House of Gucci](https://www.imdb.com/title/tt11214590/) &middot; `aug, 11th`
 
-### [Charlie and the Chocolate Factory](https://www.imdb.com/title/tt0367594/) &middot; `aug, 11st`
+### [Charlie and the Chocolate Factory](https://www.imdb.com/title/tt0367594/) &middot; `aug, 11th`
 
 ### [The Intern](https://www.imdb.com/title/tt2361509/) &middot; `aug, 9th`
 
@@ -71,7 +71,7 @@ title = "Movies"
 
 ### [The Hunchback of Notre Dame](https://www.imdb.com/title/tt0116583/) &middot; `jun, 18th`
 
-### [Virgin Territory](https://www.imdb.com/title/tt0437954/) &middot; `jun, 11st`
+### [Virgin Territory](https://www.imdb.com/title/tt0437954/) &middot; `jun, 11th`
 
 ### [Ratatouille](https://www.imdb.com/title/tt0382932/) &middot; `jun, 5th`
 
@@ -83,7 +83,7 @@ title = "Movies"
 
 ### [Interstate 60: Episodes of the Road](https://www.imdb.com/title/tt0165832/) &middot; `may, 22nd`
 
-### [12 Years a Slave](https://www.imdb.com/title/tt2024544/) &middot; `may, 12nd`
+### [12 Years a Slave](https://www.imdb.com/title/tt2024544/) &middot; `may, 12th`
 
 ### [Yes Man](https://www.imdb.com/title/tt1068680/) &middot; `may, 1st`
 
@@ -91,7 +91,7 @@ title = "Movies"
 
 ### [Sherlock Holmes: A Game of Shadows](https://www.imdb.com/title/tt1515091/) &middot; `apr, 14th`
 
-### [Sherlock Holmes](https://www.imdb.com/title/tt0988045/) &middot; `apr, 12nd`
+### [Sherlock Holmes](https://www.imdb.com/title/tt0988045/) &middot; `apr, 12th`
 
 ### [A Beautiful Mind](https://www.imdb.com/title/tt0268978/) &middot; `apr, 2nd`
 
@@ -139,7 +139,7 @@ title = "Movies"
 
 ### [Harry Potter and the Prisoner of Azkaban](https://www.imdb.com/title/tt0304141/) &middot; `dec, 18th`
 
-### [Catch Me If You Can](https://www.imdb.com/title/tt0264464/) &middot; `dec, 12nd`
+### [Catch Me If You Can](https://www.imdb.com/title/tt0264464/) &middot; `dec, 12th`
 
 ### [Harry Potter and the Chamber of Secrets](https://www.imdb.com/title/tt0295297/) &middot; `dec, 8th`
 
@@ -207,7 +207,7 @@ title = "Movies"
 
 ### [Star Wars: Episode VII - The Force Awakens](https://www.imdb.com/title/tt2488496/) &middot; `may, 14th`
 
-### [Star Wars: Episode III - Revenge of the Sith](https://www.imdb.com/title/tt0121766/) &middot; `may, 13rd`
+### [Star Wars: Episode III - Revenge of the Sith](https://www.imdb.com/title/tt0121766/) &middot; `may, 13th`
 
 ### [Star Wars: Episode II - Attack of the Clones](https://www.imdb.com/title/tt0121765/) &middot; `may, 10th`
 
@@ -241,7 +241,7 @@ title = "Movies"
 
 ### [Jobs](https://www.imdb.com/title/tt2357129/) &middot; `feb, 15th`
 
-### [The Internet's Own Boy: The Story of Aaron Swartz](https://www.imdb.com/title/tt3268458/) &middot; `feb, 11st`
+### [The Internet's Own Boy: The Story of Aaron Swartz](https://www.imdb.com/title/tt3268458/) &middot; `feb, 11th`
 
 ### [Citizenfour](https://www.imdb.com/title/tt4044364/) &middot; `feb, 5th`
 
@@ -267,9 +267,9 @@ title = "Movies"
 
 ### [The Photographer of Mauthausen](https://www.imdb.com/title/tt6704776/) &middot; `dec, 19th`
 
-### [Io sono Tempesta](https://www.imdb.com/title/tt6917314/) &middot; `dec, 12nd`
+### [Io sono Tempesta](https://www.imdb.com/title/tt6917314/) &middot; `dec, 12th`
 
-### [Tomorrowland](https://www.imdb.com/title/tt1964418/) &middot; `dec, 12nd`
+### [Tomorrowland](https://www.imdb.com/title/tt1964418/) &middot; `dec, 12th`
 
 ### [If anything happens I love you](https://www.imdb.com/title/tt11768948/) &middot; `nov, 28th`
 
