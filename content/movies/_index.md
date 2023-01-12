@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Taxi Driver](https://www.imdb.com/title/tt1703957/) &middot; `jan, 11th`
+
 ### [Genius](https://www.imdb.com/title/tt1703957/) &middot; `jan, 8th`
 
 ### [The Good Nurse](https://www.imdb.com/title/tt4273800/) &middot; `jan, 2nd`
