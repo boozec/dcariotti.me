@@ -14,9 +14,9 @@ piece of my heart. Now I'm focusing on Python/JS for work and C++ and Rust for l
 
 I'm a beer lover (as you can see from the picture above page) and an amateur cook.
 
-I'm also a cinephile, or almost, I was before the university. Time is
-always less and less, but I'm tracking (since november, 2020) the movies I
-watch. The list is [here](/movies).
+I'm also a cinephile! Well, I was before the university. Time is
+always less and less, but I'm [tracking](/movies) (since november, 2020) the movies I
+watch.
 
 In the grey section you can contact me in many and many ways, so It's useless
 rewrite those links here. But, if you want to touch me intimately (don't think
