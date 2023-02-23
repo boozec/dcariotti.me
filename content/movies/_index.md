@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Good Will Hunting](https://www.imdb.com/title/tt0119217/) &middot; `feb, 22nd`
+
 ### [Tolkien](https://www.imdb.com/title/tt3361792/) &middot; `jan, 26th`
 
 ### [Taxi Driver](https://www.imdb.com/title/tt1703957/) &middot; `jan, 11th`
