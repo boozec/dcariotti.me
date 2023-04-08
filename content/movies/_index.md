@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [La La Land](https://www.imdb.com/title/tt3783958/) &middot; `apr, 7th`
+
 ### [At Eternity's Gate](https://www.imdb.com/title/tt6938828/) &middot; `mar, 15th`
 
 ### [Good Will Hunting](https://www.imdb.com/title/tt0119217/) &middot; `feb, 22nd`
