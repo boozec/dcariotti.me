@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Fantastic Beasts: The Secrets of Dumbledore](https://www.imdb.com/title/tt4123432/) &middot; `apr, 10th`
+
 ### [La La Land](https://www.imdb.com/title/tt3783958/) &middot; `apr, 7th`
 
 ### [At Eternity's Gate](https://www.imdb.com/title/tt6938828/) &middot; `mar, 15th`
