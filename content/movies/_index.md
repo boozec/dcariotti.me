@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [The Holiday](https://www.imdb.com/title/tt0457939/) &middot; `apr, 11th`
+
 ### [Fantastic Beasts: The Secrets of Dumbledore](https://www.imdb.com/title/tt4123432/) &middot; `apr, 10th`
 
 ### [La La Land](https://www.imdb.com/title/tt3783958/) &middot; `apr, 7th`
