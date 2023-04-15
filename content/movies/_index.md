@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [The Super Mario Bros. Movie](https://www.imdb.com/title/tt6718170/) &middot; `apr, 15th`
+
 ### [The Holiday](https://www.imdb.com/title/tt0457939/) &middot; `apr, 11th`
 
 ### [Fantastic Beasts: The Secrets of Dumbledore](https://www.imdb.com/title/tt4123432/) &middot; `apr, 10th`
