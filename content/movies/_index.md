@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [X-Men: Apocalypse](https://www.imdb.com/title/tt3385516/) &middot; `may, 10th`
+
 ### [X-Men: Days of Future Past](https://www.imdb.com/title/tt1877832/) &middot; `may, 9th`
 
 ### [X-Men: First Class](https://www.imdb.com/title/tt1270798/) &middot; `may, 8th`
