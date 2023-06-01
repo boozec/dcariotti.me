@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Easy A](https://www.imdb.com/title/tt1282140/) &middot; `may, 31th`
+
 ### [500 Days of Summer](https://www.imdb.com/title/tt1022603/) &middot; `may, 27th`
 
 ### [The Illusionist](https://www.imdb.com/title/tt0443543/) &middot; `may, 14th`
