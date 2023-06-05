@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Once Upon a Time in Hollywood](https://www.imdb.com/title/tt7131622/) &middot; `jun, 4th`
+
 ### [Easy A](https://www.imdb.com/title/tt1282140/) &middot; `may, 31th`
 
 ### [500 Days of Summer](https://www.imdb.com/title/tt1022603/) &middot; `may, 27th`
