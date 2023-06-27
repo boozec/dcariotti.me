@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Stand by Me](https://www.imdb.com/title/tt0092005/) &middot; `jun, 24th`
+
 ### [The Pianist](https://www.imdb.com/title/tt0253474/) &middot; `jun, 13th`
 
 ### [Once Upon a Time in Hollywood](https://www.imdb.com/title/tt7131622/) &middot; `jun, 4th`
