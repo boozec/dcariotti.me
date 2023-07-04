@@ -5,6 +5,10 @@ title = "Movies"
 
 ## 2023
 
+### [Steve Jobs](https://www.imdb.com/title/tt2080374/) &middot; `jul, 4th`
+
+### [La Grande Bellezza](https://www.imdb.com/title/tt2358891/) &middot; `jul, 3rd`
+
 ### [Stand by Me](https://www.imdb.com/title/tt0092005/) &middot; `jun, 24th`
 
 ### [The Pianist](https://www.imdb.com/title/tt0253474/) &middot; `jun, 13th`
