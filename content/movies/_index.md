@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Barbie](https://www.imdb.com/title/tt1517268/) &middot; `jul, 29th`
+
 ### [The Matrix](https://www.imdb.com/title/tt0133093/) &middot; `jul, 16th`
 
 ### [Steve Jobs](https://www.imdb.com/title/tt2080374/) &middot; `jul, 4th`
