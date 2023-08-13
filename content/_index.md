@@ -7,7 +7,8 @@ title = "About"
 
 ![me.jpg](/i/me.jpg)
 
-Hello, I am **Santo**, a SWE and computer science student at [University of Catania](https://dmi.unict.it).
+Hello, I am **Santo**, a SWE and a computer science student graduated from the [University of Catania](https://dmi.unict.it) and
+enrolled in a Master's degree program at the [University of Bologna](https://cs.unibo.it).
 
 I hacked in many languages before starting work, but PHP will always have a
 piece of my heart. Now I'm focusing on Python/JS for work and C++ and Rust for love.

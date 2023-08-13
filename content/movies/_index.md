@@ -5,6 +5,10 @@ title = "Movies"
 
 ## 2023
 
+### [Lamborghini: The Man Behind the Legend](https://www.imdb.com/title/tt5533370/) &middot; `aug, 13th`
+
+### [Ford v Ferrari](https://www.imdb.com/title/tt1950186/) &middot; `aug, 13th`
+
 ### [Barbie](https://www.imdb.com/title/tt1517268/) &middot; `jul, 29th`
 
 ### [The Matrix](https://www.imdb.com/title/tt0133093/) &middot; `jul, 16th`
