@@ -5,6 +5,10 @@ title = "Movies"
 
 ## 2023
 
+### [Supereroi](https://www.imdb.com/title/tt10791152/) &middot; `aug, 21st`
+
+### [Le Otto Montagne](https://www.imdb.com/title/tt14641542/) &middot; `aug, 21st`
+
 ### [Lamborghini: The Man Behind the Legend](https://www.imdb.com/title/tt5533370/) &middot; `aug, 13th`
 
 ### [Ford v Ferrari](https://www.imdb.com/title/tt1950186/) &middot; `aug, 13th`
