@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Oppenheimer](https://www.imdb.com/title/tt15398776/) &middot; `aug, 23rd`
+
 ### [Supereroi](https://www.imdb.com/title/tt10791152/) &middot; `aug, 21st`
 
 ### [Le Otto Montagne](https://www.imdb.com/title/tt14641542/) &middot; `aug, 21st`
