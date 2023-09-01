@@ -5,6 +5,10 @@ title = "Movies"
 
 ## 2023
 
+### [Black Widow](https://www.imdb.com/title/tt3480822/) &middot; `aug, 30th`
+
+### [Spider-Man: Far from Home](https://www.imdb.com/title/tt6320628/) &middot; `aug, 29th`
+
 ### [Oppenheimer](https://www.imdb.com/title/tt15398776/) &middot; `aug, 23rd`
 
 ### [Supereroi](https://www.imdb.com/title/tt10791152/) &middot; `aug, 21st`
