@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Shang-Chi and the Legend of the Ten Rings](https://www.imdb.com/title/tt9376612/) &middot; `sep, 4th`
+
 ### [Black Widow](https://www.imdb.com/title/tt3480822/) &middot; `aug, 30th`
 
 ### [Spider-Man: Far from Home](https://www.imdb.com/title/tt6320628/) &middot; `aug, 29th`
