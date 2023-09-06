@@ -4,7 +4,7 @@ date: 2020-04-13
 ---
 
 Today I woke up with a thought: learn Rust. I bought a book about 3 months ago and I started to read it, read code on GitHub etc but I never wrote a code by myself.
-After 1 hour (yeah, I suck) I implemented a fibonacci sequence. I think I used every Rust tips, but idk, It's just an augury.
+After 1 hour (yeah, I suck) I implemented a fibonacci sequence. I think I used every Rust tips, but idk.
 
 <img src="https://media.tenor.com/images/b58a6eb5e09d1c9d99151d90db671217/tenor.gif" alt="kinda suck" class="center">
 
@@ -33,7 +33,7 @@ fn fib(n: &mut i32) -> i32 {
 println!("{}", fib(&mut N));
 ```
 
-Maybe one day I'll see again this code and I will thought:"WTF is that?!".
+Maybe one day I'll look at this code and think:"WTF is that?!".
 
 <img src="https://media.tenor.com/images/a8db208ebc4a1cfb5390c26e676c34de/tenor.gif" alt="wtf" class="center">
 
