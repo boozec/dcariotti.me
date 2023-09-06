@@ -11,7 +11,7 @@ Hello, I am **Santo**, a SWE and a computer science student graduated from the [
 enrolled in a Master's degree program at the [University of Bologna](https://cs.unibo.it).
 
 I hacked in many languages before starting work, but PHP will always have a
-piece of my heart. Now I'm focusing on Python/JS for work and C++ and Rust for love.
+piece of my heart. Now I'm focusing on Python and Rust.
 
 I'm a beer lover (as you can see from the picture above page) and an amateur cook.
 
