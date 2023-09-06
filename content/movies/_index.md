@@ -5,6 +5,10 @@ title = "Movies"
 
 ## 2023
 
+### [Doctor Strange in the Multiverse of Madness](https://www.imdb.com/title/tt9419884/) &middot; `sep, 6th`
+
+### [Spider-Man: No Way Home](https://www.imdb.com/title/tt10872600/) &middot; `sep, 6th`
+
 ### [Eternals](https://www.imdb.com/title/tt9032400/) &middot; `sep, 5th`
 
 ### [Shang-Chi and the Legend of the Ten Rings](https://www.imdb.com/title/tt9376612/) &middot; `sep, 4th`
