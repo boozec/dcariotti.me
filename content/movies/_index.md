@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Eternals](https://www.imdb.com/title/tt9032400/) &middot; `sep, 5th`
+
 ### [Shang-Chi and the Legend of the Ten Rings](https://www.imdb.com/title/tt9376612/) &middot; `sep, 4th`
 
 ### [Black Widow](https://www.imdb.com/title/tt3480822/) &middot; `aug, 30th`
