@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Thor: Love and Thunder](https://www.imdb.com/title/tt10648342/) &middot; `sep, 8th`
+
 ### [Doctor Strange in the Multiverse of Madness](https://www.imdb.com/title/tt9419884/) &middot; `sep, 6th`
 
 ### [Spider-Man: No Way Home](https://www.imdb.com/title/tt10872600/) &middot; `sep, 6th`
