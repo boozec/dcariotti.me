@@ -1,6 +1,6 @@
 ---
 title: moved to Bologna
-date: 2023-09-14
+date: 2023-09-13
 ---
 
 This is just a short blog post, after 2 years, where I simply say that I
