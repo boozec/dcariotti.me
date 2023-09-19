@@ -5,6 +5,10 @@ title = "Movies"
 
 ## 2023
 
+### [A Haunting in Venice](https://www.imdb.com/title/tt22687790/) &middot; `sep, 18th`
+
+### [Black Panther: Wakanda Forever](https://www.imdb.com/title/tt9114286/) &middot; `sep, 17th`
+
 ### [Thor: Love and Thunder](https://www.imdb.com/title/tt10648342/) &middot; `sep, 8th`
 
 ### [Doctor Strange in the Multiverse of Madness](https://www.imdb.com/title/tt9419884/) &middot; `sep, 6th`
