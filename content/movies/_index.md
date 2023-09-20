@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Moneyball](https://www.imdb.com/title/tt1210166/) &middot; `sep, 19th`
+
 ### [A Haunting in Venice](https://www.imdb.com/title/tt22687790/) &middot; `sep, 18th`
 
 ### [Black Panther: Wakanda Forever](https://www.imdb.com/title/tt9114286/) &middot; `sep, 17th`
