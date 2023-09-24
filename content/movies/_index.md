@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Seven Years in Tibet](https://www.imdb.com/title/tt0120102/) &middot; `sep, 24th`
+
 ### [Moneyball](https://www.imdb.com/title/tt1210166/) &middot; `sep, 19th`
 
 ### [A Haunting in Venice](https://www.imdb.com/title/tt22687790/) &middot; `sep, 18th`
