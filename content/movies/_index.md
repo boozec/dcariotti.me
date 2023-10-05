@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [The Wonderful Story of Henry Sugar](https://www.imdb.com/title/tt16968450/) &middot; `oct, 2nd`
+
 ### [Seven Years in Tibet](https://www.imdb.com/title/tt0120102/) &middot; `sep, 24th`
 
 ### [Moneyball](https://www.imdb.com/title/tt1210166/) &middot; `sep, 19th`
