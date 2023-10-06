@@ -5,6 +5,12 @@ title = "Movies"
 
 ## 2023
 
+### [Poison](https://www.imdb.com/title/tt28912885/) &middot; `oct, 5th`
+
+### [The Rat Catcher](https://www.imdb.com/title/tt28912858/) &middot; `oct, 5th`
+
+### [The Swan](https://www.imdb.com/title/tt28912758/) &middot; `oct, 5th`
+
 ### [The Wonderful Story of Henry Sugar](https://www.imdb.com/title/tt16968450/) &middot; `oct, 2nd`
 
 ### [Seven Years in Tibet](https://www.imdb.com/title/tt0120102/) &middot; `sep, 24th`
