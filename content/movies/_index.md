@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [The Ballad of Buster Scruggs](https://www.imdb.com/title/tt6412452/) &middot; `oct, 16th`
+
 ### [Poison](https://www.imdb.com/title/tt28912885/) &middot; `oct, 5th`
 
 ### [The Rat Catcher](https://www.imdb.com/title/tt28912858/) &middot; `oct, 5th`
