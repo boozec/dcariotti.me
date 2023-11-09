@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Blade Runner 2049](https://www.imdb.com/title/tt1856101/) &middot; `nov, 9th`
+
 ### [There Will Be Blood](https://www.imdb.com/title/tt0469494/) &middot; `oct, 24th`
 
 ### [The Ballad of Buster Scruggs](https://www.imdb.com/title/tt6412452/) &middot; `oct, 16th`
