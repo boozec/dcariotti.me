@@ -48,8 +48,8 @@ body {
   margin-top: 0;
 }
 
-.fantasque {
-  font-family: $fantasque;
+.gitlabmono {
+  font-family: $gitlabmono;
 }
 
 h1,
@@ -58,7 +58,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $fantasque;
+  font-family: $gitlabmono;
   color: $white;
   font-weight: bold;
 
@@ -104,7 +104,7 @@ a {
   text-decoration: none;
   cursor: pointer;
   font-weight: 400;
-  font-family: $fantasque;
+  font-family: $gitlabmono;
   &:hover,
   &:active {
     color: lighten($green, 25%);
@@ -193,15 +193,25 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+
+  @include mobile {
+    margin: 0;
+
+  }
 }
 
 .masthead {
   border: 1px solid #7f8c8d;
   padding: 1em;
   border-radius: 2px;
+  width: 340px;
+  position: fixed;
 
   @include mobile {
     text-align: center;
+    width: auto;
+    position: relative;
+    border: none;
   }
 }
 
@@ -235,7 +245,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $fantasque;
+  font-family: $gitlabmono;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -261,7 +271,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $fantasque;
+  font-family: $gitlabmono;
   font-size: 18px;
 
   @include mobile {
