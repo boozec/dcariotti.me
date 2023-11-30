@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Napoleon](https://www.imdb.com/title/tt13287846/) &middot; `nov, 29th`
+
 ### [Blade Runner 2049](https://www.imdb.com/title/tt1856101/) &middot; `nov, 9th`
 
 ### [There Will Be Blood](https://www.imdb.com/title/tt0469494/) &middot; `oct, 24th`
