@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [The Pope's Exorcist](https://www.imdb.com/title/tt13375076/) &middot; `dec, 12th`
+
 ### [Napoleon](https://www.imdb.com/title/tt13287846/) &middot; `nov, 29th`
 
 ### [Blade Runner 2049](https://www.imdb.com/title/tt1856101/) &middot; `nov, 9th`
