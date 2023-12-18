@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2023
 
+### [Zodiac](https://www.imdb.com/title/tt0443706/) &middot; `dec, 18th`
+
 ### [Ferrari](https://www.imdb.com/title/tt3758542/) &middot; `dec, 17th`
 
 ### [The Pope's Exorcist](https://www.imdb.com/title/tt13375076/) &middot; `dec, 12th`
