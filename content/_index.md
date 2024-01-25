@@ -10,7 +10,7 @@ title = "About"
 Hello, I am **Santo**, a SWE and a computer science student graduated from the [University of Catania](https://dmi.unict.it) and
 enrolled in a Master's degree program at the [University of Bologna](https://cs.unibo.it).
 
-Started with PHP and C, now I'm studying Rust and OCaml.
+Started with PHP and C, now I'm focusing on Rust and OCaml.
 
 I'm a beer lover (as you can see from the picture above page) and an amateur cook.
 
