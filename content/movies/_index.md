@@ -5,7 +5,9 @@ title = "Movies"
 
 ## 2024
 
-### [Poor Things](https://www.imdb.com/title/tt14230458/) &middot; `feb, 5th`
+### [Cast Away](https://www.imdb.com/title/tt0162222/) &middot; `feb, 5th`
+
+### [Poor Things](https://www.imdb.com/title/tt14230458/) &middot; `feb, 4th`
 
 ### [Enea](https://www.imdb.com/title/tt27219440/) &middot; `jan, 17th`
 
