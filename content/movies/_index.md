@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2024
 
+### [The Favourite](https://www.imdb.com/title/tt5083738/) &middot; `feb, 11th
+
 ### [Porco Rosso](https://www.imdb.com/title/tt0104652/) &middot; `feb, 7th`
 
 ### [Cast Away](https://www.imdb.com/title/tt0162222/) &middot; `feb, 5th`
