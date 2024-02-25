@@ -5,6 +5,8 @@ title = "Movies"
 
 ## 2024
 
+### [Smetto Quando Voglio: Masterclass](https://www.imdb.com/title/tt5897288/) &middot; `feb, 24th`
+
 ### [Smetto Quando Voglio](https://www.imdb.com/title/tt3438354/) &middot; `feb, 19th`
 
 ### [The Favourite](https://www.imdb.com/title/tt5083738/) &middot; `feb, 11th`
