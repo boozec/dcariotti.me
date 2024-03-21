@@ -7,12 +7,13 @@ title = "About"
 
 ![me.jpg](/i/me.jpg)
 
-Hello, I am **Santo**, a SWE and a computer science student graduated from the [University of Catania](https://dmi.unict.it) and
+Hello, I am **Santo**, a programmer and a cs student graduated from the [University of Catania](https://dmi.unict.it) and
 enrolled in a Master's degree program at the [University of Bologna](https://cs.unibo.it).
 
-Started with PHP and C, now I'm focusing on Rust and OCaml.
+Started with PHP and C, now I'm learning Rust and OCaml.
 
-I'm a beer lover (as you can see from the picture above page) and an amateur cook.
+I'm a beer lover (as you can see from the picture above page) and in my free
+time I enjoy cooking.
 
 I'm also a cinephile! Well, I was before the university. Time is
 always less and less, but I'm [tracking](/movies) (since november, 2020) the movies I
