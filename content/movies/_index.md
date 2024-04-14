@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [La Meglio Gioventù](https://www.imdb.com/title/tt0346336/) &middot; `apr, 14th`
+
 ### [Her](https://www.imdb.com/title/tt1798709/) &middot; `mar, 6th`
 
 ### [Smetto Quando Voglio: Ad honorem](https://www.imdb.com/title/tt5897292/) &middot; `mar, 1st`
