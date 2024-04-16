@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [The Antisocial Network: Memes to Mayhem](https://www.imdb.com/title/tt31189868/) &middot; `apr, 15th`
+
 ### [La Meglio Gioventù](https://www.imdb.com/title/tt0346336/) &middot; `apr, 14th`
 
 ### [Her](https://www.imdb.com/title/tt1798709/) &middot; `mar, 6th`
