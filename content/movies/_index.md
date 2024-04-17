@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [TPB AFK: The Pirate Bay Away from Keyboard](https://www.imdb.com/title/tt2608732/) &middot; `apr, 17th`
+
 ### [The Antisocial Network: Memes to Mayhem](https://www.imdb.com/title/tt31189868/) &middot; `apr, 15th`
 
 ### [La Meglio Gioventù](https://www.imdb.com/title/tt0346336/) &middot; `apr, 14th`
