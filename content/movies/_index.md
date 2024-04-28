@@ -5,7 +5,7 @@ title = "Movies"
 
 ## \#\# 2024
 
-### [perfetti sconosciuti](https://www.imdb.com/title/tt4901306/) &middot; `apr, 27th`
+### [Perfetti Sconosciuti](https://www.imdb.com/title/tt4901306/) &middot; `apr, 27th`
 
 ### [TPB AFK: The Pirate Bay Away from Keyboard](https://www.imdb.com/title/tt2608732/) &middot; `apr, 17th`
 
