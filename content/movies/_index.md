@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Confidenza](https://www.imdb.com/title/tt16227830/) &middot; `may, 4th`
+
 ### [The Godfather](https://www.imdb.com/title/tt0068646/) &middot; `apr, 30th`
 
 ### [Perfetti Sconosciuti](https://www.imdb.com/title/tt4901306/) &middot; `apr, 27th`
