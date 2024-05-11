@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Challengers](https://www.imdb.com/title/tt16426418/) &middot; `may, 10th`
+
 ### [Shrek](https://www.imdb.com/title/tt0126029/) &middot; `may, 7th`
 
 ### [Confidenza](https://www.imdb.com/title/tt16227830/) &middot; `may, 4th`
