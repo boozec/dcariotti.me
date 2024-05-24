@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [The Virgin Suicides](https://www.imdb.com/title/tt0159097/) &middot; `may, 23rd`
+
 ### [I Cento Passi](https://www.imdb.com/title/tt0238891/) &middot; `may, 17th`
 
 ### [Challengers](https://www.imdb.com/title/tt16426418/) &middot; `may, 10th`
