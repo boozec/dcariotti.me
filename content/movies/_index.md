@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Troppo Azzurro](https://www.imdb.com/title/tt29333393/) &middot; `may, 30th`
+
 ### [The Virgin Suicides](https://www.imdb.com/title/tt0159097/) &middot; `may, 23rd`
 
 ### [I Cento Passi](https://www.imdb.com/title/tt0238891/) &middot; `may, 17th`
