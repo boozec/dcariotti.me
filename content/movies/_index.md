@@ -5,6 +5,10 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Nowhere](https://www.imdb.com/title/tt15789472/) &middot; `jun, 8th`
+
+### [Kinds of Kindness](https://www.imdb.com/title/tt22408160/) &middot; `jun, 7th`
+
 ### [The Revenant](https://www.imdb.com/title/tt1663202/) &middot; `jun, 4th`
 
 ### [Troppo Azzurro](https://www.imdb.com/title/tt29333393/) &middot; `may, 30th`
