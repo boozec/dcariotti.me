@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Manchester by the Sea](https://www.imdb.com/title/tt4034228/) &middot; `jun, 16th`
+
 ### [Nowhere](https://www.imdb.com/title/tt15789472/) &middot; `jun, 8th`
 
 ### [Kinds of Kindness](https://www.imdb.com/title/tt22408160/) &middot; `jun, 7th`
