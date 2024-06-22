@@ -5,6 +5,10 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Il Signore delle Formiche](https://www.imdb.com/title/tt14575898/) &middot; `jun, 22nd`
+
+### [Chef](https://www.imdb.com/title/tt2883512/) &middot; `jun, 22nd`
+
 ### [Inside Out 2](https://www.imdb.com/title/tt22022452/) &middot; `jun, 21st`
 
 ### [Manchester by the Sea](https://www.imdb.com/title/tt4034228/) &middot; `jun, 16th`
