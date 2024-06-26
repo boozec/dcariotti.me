@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Detachment](https://www.imdb.com/title/tt1683526/) &middot; `jun, 26th`
+
 ### [Il Signore delle Formiche](https://www.imdb.com/title/tt14575898/) &middot; `jun, 22nd`
 
 ### [Chef](https://www.imdb.com/title/tt2883512/) &middot; `jun, 22nd`
