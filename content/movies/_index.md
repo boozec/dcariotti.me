@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Asteroid City](https://www.imdb.com/title/tt14230388/) &middot; `jul, 2nd`
+
 ### [Drive-Away Dolls](https://www.imdb.com/title/tt19356262/) &middot; `jun, 28th`
 
 ### [Detachment](https://www.imdb.com/title/tt1683526/) &middot; `jun, 26th`
