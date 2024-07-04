@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [È stata la mano di Dio](https://www.imdb.com/title/tt12680684/) &middot; `jul, 3rd`
+
 ### [Asteroid City](https://www.imdb.com/title/tt14230388/) &middot; `jul, 2nd`
 
 ### [Drive-Away Dolls](https://www.imdb.com/title/tt19356262/) &middot; `jun, 28th`
