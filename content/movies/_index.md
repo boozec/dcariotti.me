@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [The Dreamers](https://www.imdb.com/title/tt0309987/) &middot; `jul, 8th`
+
 ### [Perfect Days](https://www.imdb.com/title/tt27503384/) &middot; `jul, 5th`
 
 ### [È stata la mano di Dio](https://www.imdb.com/title/tt12680684/) &middot; `jul, 3rd`
