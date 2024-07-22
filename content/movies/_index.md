@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [C'è Ancora Domani](https://www.imdb.com/title/tt21800162/) &middot; `jul, 21st`
+
 ### [Sapore di Mare](https://www.imdb.com/title/tt0086240/) &middot; `jul, 20th`
 
 ### [Harry Potter and the Prisoner of Azkaban](https://www.imdb.com/title/tt0304141/) &middot; `jul, 9th`
