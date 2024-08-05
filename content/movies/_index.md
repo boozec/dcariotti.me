@@ -5,6 +5,10 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Deadpool & Wolverine](https://www.imdb.com/title/tt6263850/) &middot; `aug, 2nd`
+
+### [Memories of a Geisha](https://www.imdb.com/title/tt0397535/) &middot; `jul, 27th`
+
 ### [C'è Ancora Domani](https://www.imdb.com/title/tt21800162/) &middot; `jul, 21st`
 
 ### [Sapore di Mare](https://www.imdb.com/title/tt0086240/) &middot; `jul, 20th`
