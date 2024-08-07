@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Babylon](https://www.imdb.com/title/tt10640346/) &middot; `aug, 6th`
+
 ### [Deadpool & Wolverine](https://www.imdb.com/title/tt6263850/) &middot; `aug, 2nd`
 
 ### [Memories of a Geisha](https://www.imdb.com/title/tt0397535/) &middot; `jul, 27th`
