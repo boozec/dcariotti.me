@@ -5,7 +5,7 @@ title = "Movies"
 
 ## \#\# 2024
 
-### [Kill Them Softly](https://www.imdb.com/title/tt1764234/) &middot; `aug, 9th`
+### [Killing Them Softly](https://www.imdb.com/title/tt1764234/) &middot; `aug, 9th`
 
 ### [Babylon](https://www.imdb.com/title/tt10640346/) &middot; `aug, 6th`
 
