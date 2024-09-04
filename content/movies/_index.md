@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [The Gentlemen](https://www.imdb.com/title/tt8367814/) &middot; `sep, 4th`
+
 ### [Oppenheimer](https://www.imdb.com/title/tt15398776/) &middot; `sep, 2nd`
 
 ### [Dune](https://www.imdb.com/title/tt1160419/) &middot; `aug, 26th`
