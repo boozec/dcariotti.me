@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Rush](https://www.imdb.com/title/tt1979320/) &middot; `sep, 8th`
+
 ### [The Gentlemen](https://www.imdb.com/title/tt8367814/) &middot; `sep, 4th`
 
 ### [Oppenheimer](https://www.imdb.com/title/tt15398776/) &middot; `sep, 2nd`
