@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Nomadland](https://www.imdb.com/title/tt9770150/) &middot; `sep, 13rd`
+
 ### [Rush](https://www.imdb.com/title/tt1979320/) &middot; `sep, 8th`
 
 ### [The Gentlemen](https://www.imdb.com/title/tt8367814/) &middot; `sep, 4th`
