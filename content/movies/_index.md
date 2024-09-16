@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [La Chimera](https://www.imdb.com/title/tt14561712/) &middot; `sep, 15th`
+
 ### [Nomadland](https://www.imdb.com/title/tt9770150/) &middot; `sep, 13rd`
 
 ### [Rush](https://www.imdb.com/title/tt1979320/) &middot; `sep, 8th`
