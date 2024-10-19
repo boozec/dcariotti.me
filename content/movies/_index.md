@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Tre Euro e Quaranta](https://letterboxd.com/film/tre-euro-e-quaranta/) &middot; `oct, 17th`
+
 ### [La Chimera](https://www.imdb.com/title/tt14561712/) &middot; `sep, 15th`
 
 ### [Nomadland](https://www.imdb.com/title/tt9770150/) &middot; `sep, 13rd`
