@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Space Jam: A New Legacy](https://www.imdb.com/title/tt3554046/) &middot; `oct, 26th`
+
 ### [Tre Euro e Quaranta](https://letterboxd.com/film/tre-euro-e-quaranta/) &middot; `oct, 17th`
 
 ### [La Chimera](https://www.imdb.com/title/tt14561712/) &middot; `sep, 15th`
