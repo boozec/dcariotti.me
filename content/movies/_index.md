@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/) &middot; `nov, 16th`
+
 ### [Space Jam: A New Legacy](https://www.imdb.com/title/tt3554046/) &middot; `oct, 26th`
 
 ### [Tre Euro e Quaranta](https://letterboxd.com/film/tre-euro-e-quaranta/) &middot; `oct, 17th`
