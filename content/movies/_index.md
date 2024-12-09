@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Darkest Hour](https://www.imdb.com/title/tt4555426/) &middot; `dec, 9th`
+
 ### [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/) &middot; `nov, 16th`
 
 ### [Space Jam: A New Legacy](https://www.imdb.com/title/tt3554046/) &middot; `oct, 26th`
