@@ -1,53 +1,48 @@
 ---
-title: Back to the office
+title: back to the office
 date: 2020-05-23
 ---
 
-This week has been different than others, 'cause I finally back to the office.
+This week has been different from others because I finally went back to the office.
 
-I'm enthusiast for this except for a few things:
-* I started to design a fucking website in Wordpress (oh man, I'm not a fucking webdesigner)
-* a hated customer with his damned ecommerce written in Laravel
-* I'm a bit cooled 🤒
+I'm excited about this, except for a few things:
+- I started to design a website in WordPress (oh man, I'm not a web designer).
+- A hated customer with his damned e-commerce site written in Laravel.
+- I'm feeling a bit under the weather 🤒.
 
-Ok, I've to do some notes about these words:
-1. I've nothing versus webdesigner, but I study algorithms, fucking Assembly language, data structures, fucking Assembly language, crypthography, fucking Assembly language, natural languages, fucking Assembly language, database and what do u me make me do? a website in Wordpress? 😡.
-2. I don't want spend other of my time to talk 'bout this project written in Laravel, but I finally fix all bugs he wanted to fix and I'll not say no more words 'bout it... **NOW**.
-3. I don't have coronavirus, or at least I hope so.
+Okay, here are some notes about these issues:
 
-----
+1. I have nothing against web designers, but I study algorithms, fuckin' Assembly language, data structures, fuckin' Assembly language, cryptography, fuckin' Assembly language, databases... and what do they make me do? A website in WordPress? 😡.
+
+2. I don't want to spend any more time talking about this project in Laravel, but I finally fixed all the bugs he wanted fixed. That's all I have to say about it... **FOR NOW**.
+
+3. I don't have coronavirus—or at least I hope not.
+
+---
 
 ## University
 
-I'm just a little behind the study compared than my classmates, and I've not
-started two courses yet, but I'm really optimistic to finish everything in
-december. And then I'll start courses of the second year (oh yeah...).
+I'm just a little behind in my studies compared to my classmates, and I haven't started two courses yet. However, I'm optimistic about finishing everything by december. After that, I'll move on to second-year courses (oh yeah...).
 
-I finally create a perfect `.vimrc`, `.tmux`, `.zsh` files. I love VIM, I write code
-everytime faster than before.
+I finally created the perfect `.vimrc`, `.tmux`, and `.zsh` configuration files. I love VIM, and I'm writing code faster than ever.
 
-I started to watch some online courses: _Algorithms and Data structures_ by
-[University of California San Diego](https://www.ucsd.edu/), _Linear Algebra
-applied to Machine Learning_ by [Imperial College
-London](https://www.imperial.ac.uk/) (London.. but the lecturer talks about Euro
-instead of Pounds.. don't ask me why oh) and _AWS_ (yeah, finally I'm going to
-learn the Amazon fucking Web fucking Services).
-Remember when I decided to [learn Rust](/blog/2020/04/13/first-code-in-rust/)? I
-don't write anything in Rust since then. I really kinda suck, but I don't have
-much time to do everything.
-I've so many things to study that I didn't know how to start so I decided to
-write this post instead of study (in real sense); for my parents I'm a genius 😁.
+I also started watching some online courses:
+- _Algorithms and Data Structures_ by [University of California San Diego](https://www.ucsd.edu/).
+- _Linear Algebra Applied to Machine Learning_ by [Imperial College London](https://www.imperial.ac.uk/) (London... but the lecturer talks about Euros instead of Pounds. Don't ask me why).
+- _AWS_ (yeah, finally learning Amazon Web Services).
+
+Remember when I decided to [learn Rust](/blog/2020/04/13/first-code-in-rust/)? Well, I haven't written anything in Rust since then. I know, I kind of suck, but I don't have much time to do everything.
+
+I have so many things to study that I didn't know where to start. So, I decided to write this post instead of studying (yeah, really). To my parents, I'm a genius 😁.
 
 <img src="https://media0.giphy.com/media/TkERwbWzAxvfa/giphy.gif" alt="barney" class="center">
 
-----
+---
 
-PS: We're talking about VIM, so I want to share this topic posted on Reddit 2
-years ago:
+**PS:** Since we're talking about VIM, I want to share this Reddit post from 2 years ago:
 [https://www.reddit.com/r/ProgrammerHumor/comments/6xs6zl/vim_vs_emacs_vs_atom/](https://www.reddit.com/r/ProgrammerHumor/comments/6xs6zl/vim_vs_emacs_vs_atom/)
 
-PS2: This is how my VIM looks like. I'm studing Programming II on this screenshot, so we could say I'm a
-really good student.
-**Study+shilly-shally=😎** _(if u hadn't caught it, it's me with sunglasses)_
+**PS2:** This is how my VIM setup looks. I'm studying Programming II in this screenshot, so we could say I'm a pretty good student.
+**Study + procrastination = 😎** _(If you didn't catch it, that's me with sunglasses)_
 
 <img src="https://i.imgur.com/RyFyKzH.jpg" alt="vim on my desktop" class="center">
