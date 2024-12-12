@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Raging Bull](https://www.imdb.com/title/tt0081398/) &middot; `dec, 11th`
+
 ### [Darkest Hour](https://www.imdb.com/title/tt4555426/) &middot; `dec, 9th`
 
 ### [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/) &middot; `nov, 16th`
