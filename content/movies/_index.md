@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [Joy](https://www.imdb.com/title/tt10243672/) &middot; `dec, 22nd`
+
 ### [Raging Bull](https://www.imdb.com/title/tt0081398/) &middot; `dec, 11th`
 
 ### [Darkest Hour](https://www.imdb.com/title/tt4555426/) &middot; `dec, 9th`
