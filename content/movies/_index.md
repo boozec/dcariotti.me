@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2024
 
+### [The Pale Blue Eye](https://www.imdb.com/title/tt14138650/) &middot; `dec, 28th`
+
 ### [Joy](https://www.imdb.com/title/tt10243672/) &middot; `dec, 22nd`
 
 ### [Raging Bull](https://www.imdb.com/title/tt0081398/) &middot; `dec, 11th`
