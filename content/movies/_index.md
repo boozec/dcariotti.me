@@ -3,6 +3,10 @@ template = "page.html"
 title = "Movies"
 +++
 
+## \#\# 2025
+
+### [How the Grinch Stole Christmas](https://www.imdb.com/title/tt0170016/) &middot; `jan, 2nd`
+
 ## \#\# 2024
 
 ### [The Pale Blue Eye](https://www.imdb.com/title/tt14138650/) &middot; `dec, 28th`
