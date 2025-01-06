@@ -5,6 +5,10 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Eternal Sunshine of the Spotless Mind](https://www.imdb.com/title/tt0338013/) &middot; `jan, 4th`
+
+### [American Psycho](https://www.imdb.com/title/tt0144084/) &middot; `jan, 4th`
+
 ### [How the Grinch Stole Christmas](https://www.imdb.com/title/tt0170016/) &middot; `jan, 2nd`
 
 ## \#\# 2024
