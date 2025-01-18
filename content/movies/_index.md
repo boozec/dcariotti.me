@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Deep Water](https://www.imdb.com/title/tt2180339/) &middot; `jan, 17th`
+
 ### [Eternal Sunshine of the Spotless Mind](https://www.imdb.com/title/tt0338013/) &middot; `jan, 4th`
 
 ### [American Psycho](https://www.imdb.com/title/tt0144084/) &middot; `jan, 4th`
