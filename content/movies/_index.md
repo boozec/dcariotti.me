@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Inglourious Basterds](https://www.imdb.com/title/tt0361748/) &middot; `feb, 6th`
+
 ### [Nosferatu](https://www.imdb.com/title/tt5040012/) &middot; `jan, 18th`
 
 ### [Deep Water](https://www.imdb.com/title/tt2180339/) &middot; `jan, 17th`
