@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [The Hangover](https://www.imdb.com/title/tt1119646/) &middot; `feb, 9th`
+
 ### [The Brutalist](https://www.imdb.com/title/tt8999762/) &middot; `feb, 8th`
 
 ### [Inglourious Basterds](https://www.imdb.com/title/tt0361748/) &middot; `feb, 6th`
