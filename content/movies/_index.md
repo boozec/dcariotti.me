@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [American Hustle](https://www.imdb.com/title/tt1800241/) &middot; `mar, 2nd`
+
 ### [Parthenope](https://www.imdb.com/title/tt23853982/) &middot; `feb, 20th`
 
 ### [Escape from Alcatraz](https://www.imdb.com/title/tt0079116/) &middot; `feb, 16th`
