@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Mickey 17](https://www.imdb.com/title/tt12299608/) &middot; `mar, 12th`
+
 ### [Il Divo](https://www.imdb.com/title/tt1023490/) &middot; `mar, 9th`
 
 ### [A Real Pain](https://www.imdb.com/title/tt21823606/) &middot; `mar, 5th`
