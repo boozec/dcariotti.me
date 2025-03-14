@@ -201,11 +201,11 @@ img {
 }
 
 .masthead {
-  border: 1px solid #7f8c8d;
   padding: 1em;
   border-radius: 2px;
   width: 340px;
   position: fixed;
+  box-shadow: 0 0 4px $green;
 
   @include mobile {
     text-align: center;
