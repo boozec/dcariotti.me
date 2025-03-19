@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Nuovo Cinema Paradiso](https://www.imdb.com/title/tt0095765/) &middot; `mar, 19th`
+
 ### [The Order](https://www.imdb.com/title/tt26625693/) &middot; `mar, 14th`
 
 ### [Mickey 17](https://www.imdb.com/title/tt12299608/) &middot; `mar, 12th`
