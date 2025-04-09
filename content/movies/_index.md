@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Belfast](https://www.imdb.com/title/tt12789558/) &middot; `apr, 9th`
+
 ### [Follemente](https://www.imdb.com/title/tt34621892/) &middot; `mar, 28th`
 
 ### [The Female Brain](https://www.imdb.com/title/tt5752360/) &middot; `mar, 23rd`
