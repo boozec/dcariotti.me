@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title></title>
+      <link>https://dcariotti.me</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://dcariotti.me/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>moved to Bologna</title>
+          <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/moved-to-bologna/</link>
+          <guid>https://dcariotti.me/blog/moved-to-bologna/</guid>
+          <description>&lt;p&gt;This is just a short blog post, after 2 years, where I simply say that I
+moved to the city of Bologna.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;i&#x2F;bologna-first-pic.jpg&quot; alt=&quot;bologna&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>lifelog 8 - the second summary of the year</title>
+          <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/lifelog8/</link>
+          <guid>https://dcariotti.me/blog/lifelog8/</guid>
+          <description>&lt;p&gt;For the second year in a row, here I am, writing a summary of my year. This year, I&#x27;ve blogged twice, plus the time I wrote about my Cgit instance.&lt;&#x2F;p&gt;
+&lt;p&gt;2020 feels like it was just yesterday and strangely similar, but this year has been more hectic. I&#x27;ve decided to divide this post into sections.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;social&quot;&gt;Social&lt;&#x2F;h2&gt;
+&lt;p&gt;I&#x27;m not really a social blogger, so I use this blog to post my thoughts once a year. I should probably use something like Twitter or Mastodon to do this throughout the year in 120–140 character posts, but, you know, meh—I&#x27;m lazy.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;ve officially deactivated my Facebook account. Why not delete it? Well, maybe I&#x27;ll write about that decision in another blog post.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m using Twitch more and more, but I&#x27;m a nerd, so I use it for the &lt;code&gt;Software and Game Development&lt;&#x2F;code&gt; category—not really for its original purpose. I don&#x27;t play games often, so watching others play games I don&#x27;t know at all feels like a boring sport.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;books-movies&quot;&gt;Books &amp;amp; Movies&lt;&#x2F;h2&gt;
+&lt;p&gt;This year I&#x27;ve &lt;a href=&quot;&#x2F;movies&quot;&gt;watched 62 movies&lt;&#x2F;a&gt; and an unspecified number of TV series.
+I also read a few books outside of my university studies. Recently, I finished reading &lt;a href=&quot;http:&#x2F;&#x2F;www.web.stanford.edu&#x2F;~ouster&#x2F;cgi-bin&#x2F;book.php&quot;&gt;&lt;em&gt;A Philosophy of Software Design&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;, which I really enjoyed, especially for its tips on writing better source code.&lt;&#x2F;p&gt;
+&lt;p&gt;A friend gifted me &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Compilers%3A_Principles%2C_Techniques%2C_and_Tools&quot;&gt;&lt;em&gt;Compilers: Principles, Techniques, and Tools&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;. It may not be very new, but it&#x27;s a great place to start. Maybe next year, you&#x27;ll hear about my own programming language!&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;ve read my OS class book three times this year, but I didn&#x27;t get around to reading the online chapter on &amp;quot;how to start writing an operating system&amp;quot; because of other exams.&lt;&#x2F;p&gt;
+&lt;p&gt;Two narrative books are not enough. In 2022, I&#x27;m aiming to improve that number!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;travel&quot;&gt;Travel&lt;&#x2F;h2&gt;
+&lt;p&gt;This year, I flew again! My gf and I visited Florence and Pisa.&lt;&#x2F;p&gt;
+&lt;p&gt;The first time I saw the &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Florence_Cathedral&quot;&gt;Duomo of Florence&lt;&#x2F;a&gt;, I had a kind of &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Stendhal_syndrome&quot;&gt;Stendhal syndrome&lt;&#x2F;a&gt;. Every time after that—about ~240,042 times—the feeling was the same 🙃.&lt;&#x2F;p&gt;
+&lt;p&gt;Pisa is incredibly affordable—a true university city. Below is a picture of the Math department.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;i&#x2F;pisa-070921.jpg&quot; alt=&quot;Pisa 7&#x2F;9&#x2F;21&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;You recognized the sticker, right? 😏&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;ve already planned some new destinations for next year 🥰.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;nerd&quot;&gt;Nerd&lt;&#x2F;h2&gt;
+&lt;p&gt;I&#x27;ve mostly moved away from MATE. I still use some packages like Caja or Atril, but now I&#x27;m using &lt;a href=&quot;https:&#x2F;&#x2F;i3wm.org&#x2F;&quot;&gt;i3&lt;&#x2F;a&gt; as my window manager. It&#x27;s cleaner than GNOME 2, and I really like it. While I still have MATE on my laptop, I&#x27;m considering fully switching to i3 and removing the MATE packages I no longer use.&lt;&#x2F;p&gt;
+&lt;p&gt;Here&#x27;s a list of nerdy things I&#x27;ve done this year:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Switched from VIM to NeoVim.&lt;&#x2F;li&gt;
+&lt;li&gt;Tried Fish shell but went back to Zsh.&lt;&#x2F;li&gt;
+&lt;li&gt;Deployed a &lt;a href=&quot;&#x2F;blog&#x2F;git-self-hosted&#x2F;&quot;&gt;Cgit instance&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&amp;quot;&amp;quot;&amp;quot;Bought&amp;quot;&amp;quot;&amp;quot; VMs from Oracle and DigitalOcean.&lt;&#x2F;li&gt;
+&lt;li&gt;Bought sticker prints of my tattoo.&lt;&#x2F;li&gt;
+&lt;li&gt;Improved my Rust skills by creating a Telegram bot, contributing to GitHub projects, completing a project for my Database class, and starting the &lt;a href=&quot;https:&#x2F;&#x2F;git.dcariotti.me&#x2F;aoc2021&#x2F;&quot;&gt;Advent of Code 2021&lt;&#x2F;a&gt;. (I&#x27;ll tackle more days after the holidays!)&lt;&#x2F;li&gt;
+&lt;li&gt;Significantly improved my C skills thanks to my OS, Networks, and Distributed Systems classes.&lt;&#x2F;li&gt;
+&lt;li&gt;Started hacking microcontrollers.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Things I wanted to do but didn&#x27;t:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a package for Ubuntu&#x2F;Debian (after reading all the documentation 😞).&lt;&#x2F;li&gt;
+&lt;li&gt;Learn more about Zig 😞.&lt;&#x2F;li&gt;
+&lt;li&gt;Dive deeper into OpenCL 😞.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Maybe next year!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;good-proposals&quot;&gt;Good Proposals&lt;&#x2F;h2&gt;
+&lt;p&gt;A bachelor&#x27;s degree would be really cool 😂!&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;d also like to return to a normal daily routine (safely, of course), complete the three &amp;quot;I wanted to do but didn&#x27;t&amp;quot; items from the previous section, travel to new places, and post more on this blog—hopefully, someone will read these posts!&lt;&#x2F;p&gt;
+&lt;p&gt;And, of course, world peace.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;I&#x27;m sure I&#x27;ve forgotten a lot of things I didn&#x27;t know where to put or didn&#x27;t want to share on the internet because, you know, on the internet, nobody knows I&#x27;m a dog.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;PS:&lt;&#x2F;strong&gt; 💉 yourself!&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Own GitHub</title>
+          <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/git-self-hosted/</link>
+          <guid>https://dcariotti.me/blog/git-self-hosted/</guid>
+          <description>&lt;p&gt;It&#x27;s a clickbait because I don&#x27;t have my own GitHub, but a &lt;a href=&quot;https:&#x2F;&#x2F;git.zx2c4.com&#x2F;cgit&#x2F;&quot;&gt;Cgit&lt;&#x2F;a&gt; instance. You can find it at &lt;a href=&quot;http:&#x2F;&#x2F;git.dcariotti.me&quot;&gt;git.dcariotti.me&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m currently moving my notes and software that don&#x27;t need Issues, PRs, Wikis, CI, etc., from GitHub to my Cgit. Why am I doing this?&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Nobody cares about that kind of code.&lt;&#x2F;li&gt;
+&lt;li&gt;Cgit serves as a backup for unused code.&lt;&#x2F;li&gt;
+&lt;li&gt;Open source is always better (?).&lt;&#x2F;li&gt;
+&lt;li&gt;Why not?&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Open-source projects that rely on Issues (and the like) and contributions will still remain on my GitHub. The same applies to this website—for now!&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Btw, the last post on this blog was back in February. &lt;code&gt;Lifelog&lt;&#x2F;code&gt;s will return sooner or later (maybe).&lt;&#x2F;p&gt;
+&lt;p&gt;:quit&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>lifelog 7 - mr. robot</title>
+          <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/lifelog7/</link>
+          <guid>https://dcariotti.me/blog/lifelog7/</guid>
+          <description>&lt;p&gt;Last week, I finally finished the TV series &lt;em&gt;Mr. Robot&lt;&#x2F;em&gt;. I started this fantastic journey almost 4 years ago.&lt;&#x2F;p&gt;
+&lt;p&gt;When I began, I was a younger computer science student. I had never written good, secure code (not that I do now, eh) in C, C++, Python, or anything else. I was just a PHP developer—one of those who wrote code from scratch without frameworks or libraries. So, when I saw the &lt;em&gt;pilot&lt;&#x2F;em&gt;, my face was: 🤩. I used to write fansites for Habbo. Oh, what memories.&lt;&#x2F;p&gt;
+&lt;p&gt;Anyway, Prime Video added the last season about 10 days ago, so I finally decided to watch the final 13 episodes—over a year after their release.&lt;&#x2F;p&gt;
+&lt;p&gt;I noticed some parallels with my life. Excluding the &lt;code&gt;first&lt;&#x2F;code&gt; one: &lt;em&gt;the paranoia about privacy&lt;&#x2F;em&gt;. Anyone who knows me can confirm how I constantly nag everyone about privacy: &amp;quot;Use Signal, stop using WhatsApp, ditch Facebook, avoid Google services, don&#x27;t write an online blog spilling all your stupid thoughts&amp;quot;. Oh wait... not the last one!&lt;&#x2F;p&gt;
+&lt;p&gt;Okay, maybe my personality has been shaped by TV series like &lt;em&gt;Mr. Robot&lt;&#x2F;em&gt;, &lt;em&gt;Chuck&lt;&#x2F;em&gt;, and &lt;em&gt;Halt and Catch Fire&lt;&#x2F;em&gt;. So perhaps this isn&#x27;t really a coincidence.&lt;&#x2F;p&gt;
+&lt;p&gt;The &lt;code&gt;second&lt;&#x2F;code&gt; parallel (and the last one because I don&#x27;t want to bore anyone): &lt;em&gt;the Budapest metaphor&lt;&#x2F;em&gt;.
+Budapest, an enchanting place, one of my favorite cities, a place where—until last week—I was looking for job ads on LinkedIn. Who knows? Maybe it will be my second home after Sicily.
+Budapest, as Darlene describes it, is a metaphor for &amp;quot;escape from reality&amp;quot;—a place where anyone can be whatever they want
+Maybe my subconscious decided on Budapest because of &lt;em&gt;Mr. Robot&lt;&#x2F;em&gt;?&lt;&#x2F;p&gt;
+&lt;p&gt;No spoilers will be shared here. The only thing I will say is: &lt;strong&gt;WOW&lt;&#x2F;strong&gt;. What a series!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Sorry for this embed code of Instagram, but it&#x27;s perfect to share here now.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;blockquote class=&quot;instagram-media&quot;
+data-instgrm-permalink=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;p&#x2F;CKXJtuFlWwF&#x2F;?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot;
+data-instgrm-version=&quot;13&quot; style=&quot; background:#FFF; border:0; border-radius:3px;
+box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px;
+max-width:540px; min-width:326px; padding:0; width:99.375%;
+width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div
+style=&quot;padding:16px;&quot;&gt; &lt;a
+href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;p&#x2F;CKXJtuFlWwF&#x2F;?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot;
+style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center;
+text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex;
+flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color:
+#F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px;
+width: 40px;&quot;&gt;&lt;&#x2F;div&gt; &lt;div style=&quot;display: flex; flex-direction: column;
+flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4;
+border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width:
+100px;&quot;&gt;&lt;&#x2F;div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px;
+flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;&lt;div style=&quot;padding:
+19% 0;&quot;&gt;&lt;&#x2F;div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px;
+width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot;
+xmlns=&quot;https:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot;
+xmlns:xlink=&quot;https:&#x2F;&#x2F;www.w3.org&#x2F;1999&#x2F;xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot;
+fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000,
+-20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41
+553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852
+C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41
+556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50
+C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114
+551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886
+524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113
+557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101
+C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057
+562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757
+556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552
+C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757
+523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057
+518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101
+C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056
+516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938
+518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654
+C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448
+541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756
+557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894
+C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978
+565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996
+565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258
+569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368
+562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18
+C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18
+C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368
+516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258
+511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147
+511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651
+C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658
+521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965
+532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82
+C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634
+565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743
+570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851
+570.966,40.831 570.82,37.631&quot;&gt;&lt;&#x2F;path&gt;&lt;&#x2F;g&gt;&lt;&#x2F;g&gt;&lt;&#x2F;g&gt;&lt;&#x2F;svg&gt;&lt;&#x2F;div&gt;&lt;div
+style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0;
+font-family:Arial,sans-serif; font-size:14px; font-style:normal;
+font-weight:550; line-height:18px;&quot;&gt; View this post on Instagram&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;&lt;div
+style=&quot;padding: 12.5% 0;&quot;&gt;&lt;&#x2F;div&gt; &lt;div style=&quot;display: flex; flex-direction: row;
+margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color:
+#F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform:
+translateX(0px) translateY(7px);&quot;&gt;&lt;&#x2F;div&gt; &lt;div style=&quot;background-color: #F4F4F4;
+height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px);
+width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;&#x2F;div&gt; &lt;div
+style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width:
+12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;&lt;div
+style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4;
+border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;&#x2F;div&gt; &lt;div
+style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px
+solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px)
+translateY(-4px) rotate(30deg)&quot;&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt;
+&lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid
+transparent; transform: translateY(16px);&quot;&gt;&lt;&#x2F;div&gt; &lt;div style=&quot; background-color:
+#F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform:
+translateY(-4px);&quot;&gt;&lt;&#x2F;div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px
+solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px)
+translateX(8px);&quot;&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt; &lt;div style=&quot;display: flex; flex-direction:
+column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&quot;&gt; &lt;div
+style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height:
+14px; margin-bottom: 6px; width: 224px;&quot;&gt;&lt;&#x2F;div&gt; &lt;div style=&quot; background-color:
+#F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width:
+144px;&quot;&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;&lt;&#x2F;a&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif;
+font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px;
+overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis;
+white-space:nowrap;&quot;&gt;&lt;a
+href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;p&#x2F;CKXJtuFlWwF&#x2F;?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot;
+style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px;
+font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot;
+target=&quot;_blank&quot;&gt;A post shared by Carly Chaikin
+(@carlychaikin)&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;div&gt;&lt;&#x2F;blockquote&gt; &lt;script async
+src=&quot;&#x2F;&#x2F;www.instagram.com&#x2F;embed.js&quot;&gt;&lt;&#x2F;script&gt;
+&lt;p&gt;A piece of my adolescente is gone, stop crying c&#x27;mon.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>lifelog 6 - my last advent calendar</title>
+          <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/lifelog6/</link>
+          <guid>https://dcariotti.me/blog/lifelog6/</guid>
+          <description>&lt;p&gt;This is the first post of the year, so...&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;happy-new-year&quot;&gt;Happy New Year!&lt;&#x2F;h3&gt;
+&lt;p&gt;It&#x27;s socially accepted to say this until February!&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Yesterday was the first day of the red zone, or almost, of the red zone for Sicily. Yes, my island is officially in lockdown. A lockdown like March 2020, except for barbers.&lt;&#x2F;p&gt;
+&lt;p&gt;I thought I forgot to write a mini-review of my advent calendar. My gf gave me a personalized advent calendar for last Christmas. Something really original, if you think that I gave her a game for the Nintendo. I&#x27;m the worst boyfriend ever.&lt;&#x2F;p&gt;
+&lt;p&gt;Anyway, here we have a list, starting december 9th:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;🍵 Tea: ginger and cinnamon (one of my favorites)&lt;&#x2F;li&gt;
+&lt;li&gt;🕯️ Candle: vin brulè taste (&lt;strong&gt;in love&lt;&#x2F;strong&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;🍺 Beer: finding a Guinness around my city is hard&lt;&#x2F;li&gt;
+&lt;li&gt;Nougat: pistachio&lt;&#x2F;li&gt;
+&lt;li&gt;🍺 Beer: another beer, Belgian this time&lt;&#x2F;li&gt;
+&lt;li&gt;Earphones: Bluetooth earphones for me are now revolutionary&lt;&#x2F;li&gt;
+&lt;li&gt;🎅 Chocolate Santa Claus: meh :&#x2F;&lt;&#x2F;li&gt;
+&lt;li&gt;🍺 Beer: another beer, she knows me&lt;&#x2F;li&gt;
+&lt;li&gt;☕ Cup: a cup for tea with a big mustache&lt;&#x2F;li&gt;
+&lt;li&gt;Christmas ball: inside there were sweets&lt;&#x2F;li&gt;
+&lt;li&gt;Beer underwear: &lt;strong&gt;no words about it&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;🍺 Beer: Punk IPA, I love it!&lt;&#x2F;li&gt;
+&lt;li&gt;📚 Book: &lt;em&gt;Fight Club&lt;&#x2F;em&gt; by Chuck Palahniuk&lt;&#x2F;li&gt;
+&lt;li&gt;Water bottle: thanks, I needed it for trekking&lt;&#x2F;li&gt;
+&lt;li&gt;🛋️ Lamp: IKEA lamp for my desk&lt;&#x2F;li&gt;
+&lt;li&gt;🏦 Piggy bank: where I can save for our trips!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;I don&#x27;t have a favorite and I think it&#x27;s bad to say something like this, but the &lt;em&gt;beer underwear&lt;&#x2F;em&gt; was my lucky charm for the &lt;strong&gt;Linear Algebra and Geometry&lt;&#x2F;strong&gt; exam: maybe without it I wouldn&#x27;t have gotten an A+.&lt;&#x2F;p&gt;
+&lt;p&gt;Now I run to study for the next &lt;code&gt;n&lt;&#x2F;code&gt; exams. See ya in february (or march).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;:wqa&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>lifelog 5 - summary of this year</title>
+          <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/lifelog5/</link>
+          <guid>https://dcariotti.me/blog/lifelog5/</guid>
+          <description>&lt;p&gt;2020 was a different year in a different sense, but something went well... more or less.&lt;&#x2F;p&gt;
+&lt;p&gt;I bought a domain, created a blog, and created a new custom email for work and LinkedIn. How professional I am, omg.&lt;&#x2F;p&gt;
+&lt;p&gt;I bought 3 types of Vans. I&#x27;d like to be an ambassador. Maybe 2021 will be my year for a collaboration with Vans.&lt;&#x2F;p&gt;
+&lt;p&gt;I opened a debt with a bank: okay, I&#x27;m saying something more drastic than it is. The fact is: financial payment. Fuck capitalism!&lt;&#x2F;p&gt;
+&lt;p&gt;I started upgrading my home office and wrote something like 100,000 lines of code, learning new languages and tools.&lt;&#x2F;p&gt;
+&lt;p&gt;I got my first tattoo, my lovely friend John. I posted a pic of him on my Instagram, check it out.&lt;&#x2F;p&gt;
+&lt;p&gt;I also pierced my ear. I&#x27;m John Travolta&#x27;s double.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;ve taken an unknown number of exams at the university: postponed and turned down more than I could count.&lt;&#x2F;p&gt;
+&lt;p&gt;I traveled around Sicily, discovering new beers (and other things, but you know, I must respect the disclaimer of my Instagram account). Also started to make cocktails at home.&lt;&#x2F;p&gt;
+&lt;p&gt;I joined the gym, bodybuilding: my muscles thank me, but not thanks to &#x27;mbare Peppe. You can&#x27;t close gyms after paying the annual subscription. Anyway, I have to do something for my back; I spend too much time sitting for work or study.&lt;&#x2F;p&gt;
+&lt;p&gt;I met new people and made new pub friends. Love you too, &amp;quot;sea friends&amp;quot;.&lt;&#x2F;p&gt;
+&lt;p&gt;I think I&#x27;ve not forgotten anything.&lt;&#x2F;p&gt;
+&lt;p&gt;This year could have been better, but eh, I&#x27;m here at least to write these words.&lt;&#x2F;p&gt;
+&lt;p&gt;Regards,&lt;br&gt;
+Santo&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>lifelog 4 - new desk setup</title>
+          <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/lifelog4/</link>
+          <guid>https://dcariotti.me/blog/lifelog4/</guid>
+          <description>&lt;p&gt;Thanks to Black Friday (and remote working), I finally bought an external keyboard and mouse for my new desk.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reality&quot;&gt;Reality&lt;&#x2F;h2&gt;
+&lt;p&gt;I took an old desk and moved it to my room. It was okay except for my long legs and a central drawer where my legs were constantly banging. I was forced to put my legs horizontally, a real agony for me. So I decided to buy a keyboard to connect to this laptop. It&#x27;s a new thing for me because it&#x27;s ergonomic, or, as I like to say to everyone: &lt;em&gt;split&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;I also bought a vertical mouse because it was uncomfortable to use both the external keyboard and integrated laptop touchpad.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;My back thanks.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;emails-stuff&quot;&gt;Emails Stuff&lt;&#x2F;h2&gt;
+&lt;p&gt;I have configured &lt;a href=&quot;https:&#x2F;&#x2F;neomutt.org&#x2F;&quot;&gt;neomutt&lt;&#x2F;a&gt; for my personal &lt;code&gt;@dcariotti.me&lt;&#x2F;code&gt; emails. I tried setting it up for my work email but without success. When it&#x27;s easy to set up, I&#x27;ll also integrate my &lt;code&gt;@gmail&lt;&#x2F;code&gt; email too.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m really appreciating the terminal email approach: easy to read and Mutt doesn&#x27;t distract me. Obviously, I use this email first for &lt;strong&gt;Debian&lt;&#x2F;strong&gt; mailing list, so emails are few for now, but who knows?&lt;&#x2F;p&gt;
+&lt;p&gt;There&#x27;s one more thing: I have to study linear algebra, a &lt;em&gt;beautiful&lt;&#x2F;em&gt; course that I&#x27;ve been following since last year and which I postponed to January.&lt;&#x2F;p&gt;
+&lt;p&gt;Feel the wonderful Christmas spirit of december 1st? Oh yes... vin brulè, pandoro, tombola, unwelcome gifts, lots of love, and lots of stress.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>lifelog 3 - doing procrastinating stuff</title>
+          <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/lifelog3/</link>
+          <guid>https://dcariotti.me/blog/lifelog3/</guid>
+          <description>&lt;p&gt;This log has become monthly rather than weekly, but, of course, the week is boring for everyone.&lt;&#x2F;p&gt;
+&lt;p&gt;Last year (Nov. 24th, 2019) I was in Budapest, spending more time with my gf at the &lt;a href=&quot;http:&#x2F;&#x2F;www.gellertbath.hu&#x2F;&quot;&gt;Gellért thermal baths&lt;&#x2F;a&gt;, and today I&#x27;m inundated by university exams. Thanks a lot, &lt;code&gt;Databases&lt;&#x2F;code&gt; and &lt;code&gt;Maths&lt;&#x2F;code&gt; classes.&lt;&#x2F;p&gt;
+&lt;p&gt;My beard and hair are growing weird. I&#x27;ve a strange curiosity about it, for this reason I&#x27;ve not yet decided to cut them.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;nerd-stuff&quot;&gt;Nerd Stuff&lt;&#x2F;h2&gt;
+&lt;p&gt;At work, I&#x27;m testing things like &lt;a href=&quot;https:&#x2F;&#x2F;dcariotti.me&#x2F;blog&#x2F;lifelog3&#x2F;sentry.io&quot;&gt;Sentry&lt;&#x2F;a&gt; and Dokku. I feel more like a real programmer when I use this type of software instead of taking a UI on Adobe XD and putting the HTML&#x2F;CSS&#x2F;JS code inside a git repository.&lt;&#x2F;p&gt;
+&lt;p&gt;I had the brilliant idea of installing Debian, again -.-&amp;quot;.&lt;&#x2F;p&gt;
+&lt;p&gt;I wiped the partition, increased it (it was only 80GB, fuck) and tried to install it. It was wasteful when I say that I spent 4 hours concluding nothing, damn ethernet drive. I re-installed Ubuntu, but this time, Ubuntu Mate! Nothing changed, just a couple of GB saved.&lt;&#x2F;p&gt;
+&lt;p&gt;I also re-structured my &lt;code&gt;gitconfig&lt;&#x2F;code&gt; file and generated a &lt;a href=&quot;https:&#x2F;&#x2F;dcariotti.me&#x2F;blog&#x2F;lifelog3&#x2F;gnupg.org&quot;&gt;GPG&lt;&#x2F;a&gt; key, so I can &lt;em&gt;sign&lt;&#x2F;em&gt; my commits now. This looks like a pro to me.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;boredom&quot;&gt;Boredom&lt;&#x2F;h2&gt;
+&lt;p&gt;I&#x27;m using Twitter now, more like a passive stupid procrastinating student than a smart boy. But, what can I say about?! The reality is:&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m not late for exams: I&#x27;m just lazy. I need to do something always different to keep my curiosity and focus. Doing the same things more and more causes me an innate sense of boredom and discomfort. Maybe I&#x27;m weird, or maybe I&#x27;m just human.&lt;&#x2F;p&gt;
+&lt;p&gt;I want to share a pic of Budapest from last year, because I realized that I don&#x27;t miss Budapest, I miss the curiosity of discovering new stuff, and Budapest was.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;i&#x2F;budapest-241120.jpg&quot; alt=&quot;budapest&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You can check the &lt;a href=&quot;&#x2F;movies&quot;&gt;movie list I watched since nov 14th&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</description>
+      </item>
+      <item>
+          <title>lifelog 2 - back to the university</title>
+          <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/lifelog2/</link>
+          <guid>https://dcariotti.me/blog/lifelog2/</guid>
+          <description>&lt;p&gt;Yeah, I purchased a domain and put this site on. Welcome to &lt;a href=&quot;https:&#x2F;&#x2F;dcariotti.me&quot;&gt;https:&#x2F;&#x2F;dcariotti.me&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;media1.tenor.com&#x2F;images&#x2F;03d14d3bfe12e420efd76774ab1615c9&#x2F;tenor.gif?itemid=6007757&quot; alt=&quot;img&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;university&quot;&gt;University&lt;&#x2F;h2&gt;
+&lt;p&gt;I also know that I&#x27;ve forgotten to write an article in the last 3 weeks, but the truth is: my life is a monotonous and boring cycle.&lt;&#x2F;p&gt;
+&lt;p&gt;I mean, I wake up, university lessons, gym, eat, work, eat, study, sleep. 
+FINISHED.&lt;&#x2F;p&gt;
+&lt;p&gt;It&#x27;s a fucking boring cycle, or at least it was until last week because I work remotely again and gyms are closed (thanks so much, &#x27;mbare Peppe). Now I don&#x27;t get out of home, I cannot even have a beer after work :(&lt;&#x2F;p&gt;
+&lt;p&gt;This academic year, however, seems difficult: I don&#x27;t know if it&#x27;s because I still have three exams from last year or because I don&#x27;t want to stay at home. I would rather travel the world, but I can&#x27;t, and that bothers me.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;job&quot;&gt;Job&lt;&#x2F;h2&gt;
+&lt;p&gt;I&#x27;m developing more and more boring stuff, but there&#x27;s something good about all this: only 2 months until Christmas, and this means salary x2!&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m considering switching to Debian, but not before Christmas holidays. (Sentence about Debian could also be considered in the university, job, and life sections)&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;life&quot;&gt;Life&lt;&#x2F;h2&gt;
+&lt;p&gt;I read one book: &lt;em&gt;The Sorrows of Young Werther&lt;&#x2F;em&gt;, maybe next time I&#x27;ll write a little comment about it. I&#x27;ve started &lt;em&gt;White Nights&lt;&#x2F;em&gt;, but free time to read is less and less. Anyway, stop complaining! I&#x27;m kidding, just a bit tired. I just want to have a cold beer in my favorite pub. I miss Instagram, so here is a pic of Ric and Clà studying last week.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;i&#x2F;ric-cla.jpg&quot; alt=&quot;va che bellini&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>lifelog 1 - reddit, new drug</title>
+          <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/lifelog1/</link>
+          <guid>https://dcariotti.me/blog/lifelog1/</guid>
+          <description>&lt;p&gt;I&#x27;m sober this Sunday: It&#x27;s something strange and new, but I had to do. I&#x27;m kidding, eh.&lt;&#x2F;p&gt;
+&lt;p&gt;Remember when I decided to uninstall Instagram from my iPhone? I do, of course I do. It&#x27;s Reddit&#x27;s turn. Nooo, I don&#x27;t want to uninstall Reddit, but I&#x27;m spending a lot of time here.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;media.tenor.com&#x2F;images&#x2F;d68a5f0d23c944ae16ae0d9cb68854f7&#x2F;tenor.gif&quot; alt=&quot;reddit&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I created an account about 4 years ago (&lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;user&#x2F;usantoc&quot;&gt;u&#x2F;usantoc&lt;&#x2F;a&gt;) and, since last week, I opened that website sometimes. Now, according to my iPhone app, I spend hours reading, scrolling, informing, and laughing on Reddit. And you want to know what? It&#x27;s better than Instagram.&lt;&#x2F;p&gt;
+&lt;p&gt;I don&#x27;t watch soft-porn videos or stupid travel-and-ass-or-boobs pics from the Maldives.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m tired, but I&#x27;m doing my best to tell my fucking business to a PC (no one is forcing me to do this, but I want to). However, it&#x27;s not the time for now, sooooo, take this post and do it enough for this week, bye.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;:wq&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>lifelog 0 - no social, always more drunk</title>
+          <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/lifelog0/</link>
+          <guid>https://dcariotti.me/blog/lifelog0/</guid>
+          <description>&lt;p&gt;This is my first Life Log - a weekly (or monthly, I haven&#x27;t decided yet) post where I tell about my life to the whole internet instead of sharing my business through social networks.&lt;&#x2F;p&gt;
+&lt;p&gt;Yeah, I have to confess that I watched &lt;a href=&quot;https:&#x2F;&#x2F;www.netflix.com&#x2F;watch&#x2F;81254224&quot;&gt;The Social Dilemma&lt;&#x2F;a&gt; and that&#x27;s one of the reasons for my &amp;quot;unsocialnetworking&amp;quot;. I only uninstalled Facebook and Instagram: in one week I saved 4-5 hours of my life, my mental sanity, and around 200 notifications. Facebook reminds me, every damn day, about my 424242 notifications not seen from 424242 events I don&#x27;t care about.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;media1.tenor.com&#x2F;images&#x2F;155eec10fccf3f19af96ce0f839235d9&#x2F;tenor.gif&quot; alt=&quot;fb&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m studying more and more and planning an escape. Maybe to the Caribbean Islands or New Zealand. I don&#x27;t hate Sicily, but oh my god, I&#x27;m getting more stressed every day. As my gf says: &amp;quot;This is just a little, normal, daily mental breakdown&amp;quot;. So let me complain, in particular about the 40€ spent yesterday on alcohol. Ric, if you are reading these words, I hate you!&lt;&#x2F;p&gt;
+&lt;p&gt;The reality is I like being a programmer with a love for cooking and porn (these two things are not related, don&#x27;t think badly)... and I love my city. Just, all of us want the things that we don&#x27;t have. In my case: I&#x27;d want to see the Danube River from the window of a Tesla, while drinking a beer bought at Szimpla Kert.&lt;&#x2F;p&gt;
+&lt;p&gt;PS: I&#x27;m also improving my English, because I&#x27;d like to be a fashion blogger and this blog is just the beginning of a brilliant career.&lt;&#x2F;p&gt;
+&lt;p&gt;However, now I&#x27;m saving these words on the internet and quitting because I&#x27;m not really sober yet.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;:wq&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>back to the office</title>
+          <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/back-to-office/</link>
+          <guid>https://dcariotti.me/blog/back-to-office/</guid>
+          <description>&lt;p&gt;This week has been different from others because I finally went back to the office.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m excited about this, except for a few things:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;I started to design a website in WordPress (oh man, I&#x27;m not a web designer).&lt;&#x2F;li&gt;
+&lt;li&gt;A hated customer with his damned e-commerce site written in Laravel.&lt;&#x2F;li&gt;
+&lt;li&gt;I&#x27;m feeling a bit under the weather 🤒.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Okay, here are some notes about these issues:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I have nothing against web designers, but I study algorithms, fuckin&#x27; Assembly language, data structures, fuckin&#x27; Assembly language, cryptography, fuckin&#x27; Assembly language, databases... and what do they make me do? A website in WordPress? 😡.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;I don&#x27;t want to spend any more time talking about this project in Laravel, but I finally fixed all the bugs he wanted fixed. That&#x27;s all I have to say about it... &lt;strong&gt;FOR NOW&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;I don&#x27;t have coronavirus—or at least I hope not.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;university&quot;&gt;University&lt;&#x2F;h2&gt;
+&lt;p&gt;I&#x27;m just a little behind in my studies compared to my classmates, and I haven&#x27;t started two courses yet. However, I&#x27;m optimistic about finishing everything by december. After that, I&#x27;ll move on to second-year courses (oh yeah...).&lt;&#x2F;p&gt;
+&lt;p&gt;I finally created the perfect &lt;code&gt;.vimrc&lt;&#x2F;code&gt;, &lt;code&gt;.tmux&lt;&#x2F;code&gt;, and &lt;code&gt;.zsh&lt;&#x2F;code&gt; configuration files. I love VIM, and I&#x27;m writing code faster than ever.&lt;&#x2F;p&gt;
+&lt;p&gt;I also started watching some online courses:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Algorithms and Data Structures&lt;&#x2F;em&gt; by &lt;a href=&quot;https:&#x2F;&#x2F;www.ucsd.edu&#x2F;&quot;&gt;University of California San Diego&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;Linear Algebra Applied to Machine Learning&lt;&#x2F;em&gt; by &lt;a href=&quot;https:&#x2F;&#x2F;www.imperial.ac.uk&#x2F;&quot;&gt;Imperial College London&lt;&#x2F;a&gt; (London... but the lecturer talks about Euros instead of Pounds. Don&#x27;t ask me why).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;AWS&lt;&#x2F;em&gt; (yeah, finally learning Amazon Web Services).&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Remember when I decided to &lt;a href=&quot;&#x2F;blog&#x2F;2020&#x2F;04&#x2F;13&#x2F;first-code-in-rust&#x2F;&quot;&gt;learn Rust&lt;&#x2F;a&gt;? Well, I haven&#x27;t written anything in Rust since then. I know, I kind of suck, but I don&#x27;t have much time to do everything.&lt;&#x2F;p&gt;
+&lt;p&gt;I have so many things to study that I didn&#x27;t know where to start. So, I decided to write this post instead of studying (yeah, really). To my parents, I&#x27;m a genius 😁.&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;media0.giphy.com&#x2F;media&#x2F;TkERwbWzAxvfa&#x2F;giphy.gif&quot; alt=&quot;barney&quot; class=&quot;center&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;PS:&lt;&#x2F;strong&gt; Since we&#x27;re talking about VIM, I want to share this Reddit post from 2 years ago:
+&lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;ProgrammerHumor&#x2F;comments&#x2F;6xs6zl&#x2F;vim_vs_emacs_vs_atom&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;ProgrammerHumor&#x2F;comments&#x2F;6xs6zl&#x2F;vim_vs_emacs_vs_atom&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;PS2:&lt;&#x2F;strong&gt; This is how my VIM setup looks. I&#x27;m studying Programming II in this screenshot, so we could say I&#x27;m a pretty good student.
+&lt;strong&gt;Study + procrastination = 😎&lt;&#x2F;strong&gt; &lt;em&gt;(If you didn&#x27;t catch it, that&#x27;s me with sunglasses)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;RyFyKzH.jpg&quot; alt=&quot;vim on my desktop&quot; class=&quot;center&quot;&gt;
+</description>
+      </item>
+      <item>
+          <title>first code in Rust</title>
+          <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/first-code-in-rust/</link>
+          <guid>https://dcariotti.me/blog/first-code-in-rust/</guid>
+          <description>&lt;p&gt;Today, I woke up with a thought: learn Rust. I bought a book about 3 months ago and started to read it, browse code on GitHub, etc., but I never wrote any code myself.&lt;&#x2F;p&gt;
+&lt;p&gt;After 1 hour (yeah, I suck), I implemented a Fibonacci sequence. I think I used every Rust tip I could remember, but I&#x27;m not entirely sure.&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;media.tenor.com&#x2F;images&#x2F;b58a6eb5e09d1c9d99151d90db671217&#x2F;tenor.gif&quot; alt=&quot;kinda suck&quot; class=&quot;center&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;This is the bad code I wrote, but I&#x27;m very proud of it.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;rust&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-rust &quot;&gt;&lt;code class=&quot;language-rust&quot; data-lang=&quot;rust&quot;&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;use &lt;&#x2F;span&gt;&lt;span&gt;std::mem;
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;fn &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8ec07c;&quot;&gt;fib&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;n&lt;&#x2F;span&gt;&lt;span&gt;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;&amp;amp;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;mut i32&lt;&#x2F;span&gt;&lt;span&gt;) -&amp;gt; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;i32 &lt;&#x2F;span&gt;&lt;span&gt;{
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;let mut&lt;&#x2F;span&gt;&lt;span&gt; a &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d3869b;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;let mut&lt;&#x2F;span&gt;&lt;span&gt; b &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d3869b;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;while &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;*&lt;&#x2F;span&gt;&lt;span&gt;n &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;&amp;gt; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d3869b;&quot;&gt;1 &lt;&#x2F;span&gt;&lt;span&gt;{
+&lt;&#x2F;span&gt;&lt;span&gt;        a &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;+=&lt;&#x2F;span&gt;&lt;span&gt; b;
+&lt;&#x2F;span&gt;&lt;span&gt;        mem::swap(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;&amp;amp;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;mut&lt;&#x2F;span&gt;&lt;span&gt; a, &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;&amp;amp;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;mut&lt;&#x2F;span&gt;&lt;span&gt; b);
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;*&lt;&#x2F;span&gt;&lt;span&gt;n &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;-= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d3869b;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;&#x2F;span&gt;&lt;span&gt;    }
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;    b
+&lt;&#x2F;span&gt;&lt;span&gt;}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;This prints the first &lt;span&gt;\(N\)&lt;&#x2F;span&gt; numbers from the Fibonacci sequence.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;rust&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-rust &quot;&gt;&lt;code class=&quot;language-rust&quot; data-lang=&quot;rust&quot;&gt;&lt;span style=&quot;color:#fabd2f;&quot;&gt;println!&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b8bb26;&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;{}&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b8bb26;&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;, &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fabd2f;&quot;&gt;fib&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;&amp;amp;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;mut&lt;&#x2F;span&gt;&lt;span&gt; N));
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Maybe one day, I&#x27;ll look at this code and think: &amp;quot;WTF is that?!&amp;quot;.
+&lt;img src=&quot;https:&#x2F;&#x2F;media.tenor.com&#x2F;images&#x2F;a8db208ebc4a1cfb5390c26e676c34de&#x2F;tenor.gif&quot; alt=&quot;wtf&quot; class=&quot;center&quot;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>DMI Coding Contest 04&#x2F;04&#x2F;2020, &quot;La guantiera di dolcetti&quot; versione con coda di priorità</title>
+          <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/dolcetti-w-priority-queue/</link>
+          <guid>https://dcariotti.me/blog/dolcetti-w-priority-queue/</guid>
+          <description>&lt;p&gt;La versione dell&#x27;esercizio qui di seguito de &lt;strong&gt;&amp;quot;La guantiera di dolcetti&amp;quot;&lt;&#x2F;strong&gt; (esercizio proposto dal DMI per il &lt;a href=&quot;http:&#x2F;&#x2F;www.dmi.unict.it&#x2F;~prog2&#x2F;home.php&quot;&gt;Coding Contest&lt;&#x2F;a&gt; del 04&#x2F;04&#x2F;2020) è spiegata utilizzando una &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Priority_queue&quot;&gt;coda di priorità&lt;&#x2F;a&gt;, ma, ovviamente, può esser risolta in modo più semplice e, forse, più ottimizzato.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;specifiche-dell-esercizio&quot;&gt;Specifiche dell&#x27;esercizio&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;em&gt;Si assuma che Francesco e Montalbano assegnino, indipendentemente, a ciascun dolcetto della guantiera un punteggio. I punteggi assegnati da Montalbano non saranno quindi necessariamente uguali a quelli assegnati da Francesco.
+Si aiuti Francesco e il commissario Montalbano a dividersi i dolcetti alla ricotta in maniera che la somma complessiva dei punteggi assegnata ad ognuno dei dolcetti scelti sia massima. Più formalmente si dovrà massimizzare la somma dei punteggi assegnati da Montalbano ai dolcetti da lui scelti e la somma dei punteggi assegnati da Francesco ai dolcetti da lui scelti.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;dati-in-input&quot;&gt;Dati in input&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;em&gt;L&#x27;input è costituito da 100 righe, una per ogni task. Ogni riga del file di input contiene un valore N che indica il numero di dolcetti presenti nel vassoio, seguito da N coppie composte da due interi positivi. I valori dell&#x27;i-esima coppia indicano i punteggi assegnati da Montalbano e Francesco, rispettivamente, per l&#x27;i-esimo dolcetto.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;dati-in-output&quot;&gt;Dati in output&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;em&gt;Il file di output è composto da 100 righe, una per ogni task presente nel file di input. Ogni riga conterrà la massima somma possibile dei punteggi ottenuta dalla divisione dei dolcetti.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;facciamo-attenzione-alle-note&quot;&gt;Facciamo attenzione alle note&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Il valore di N è sempre compreso tra 4 e 250 ed è sempre pari.&lt;&#x2F;li&gt;
+&lt;li&gt;I voti dei dolcetti sono sempre interi positivi compresi tra 0 e 30.&lt;&#x2F;li&gt;
+&lt;li&gt;Lo stesso dolcetto non può essere scelto sia da Francesco che da Montalbano.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;ma soprattutto, una nota non scritta: Francesco e Montalbano devono avere entrambi lo stesso numero di dolcetti&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h1 id=&quot;algoritmo&quot;&gt;Algoritmo&lt;&#x2F;h1&gt;
+&lt;p&gt;Prendiamo come esempio l&#x27;input&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;4 9 2 6 7 1 0 30 4&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;sappiamo che l&#x27;output sarà&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;48&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;questo perché, gli elementi cui somma è massima sono le coppie &lt;em&gt;(9, 30)&lt;&#x2F;em&gt; e &lt;em&gt;(7, 0)&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;ma-come-ci-si-arriva-a-dire-questo&quot;&gt;Ma come ci si arriva a dire questo?&lt;&#x2F;h4&gt;
+&lt;h6 id=&quot;forza-bruta&quot;&gt;Forza bruta&lt;&#x2F;h6&gt;
+&lt;p&gt;Un caso possibile è andare col metodo per &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Brute-force_attack&quot;&gt;forza bruta&lt;&#x2F;a&gt; ma che, oltre ad essere complesso da implementare, risulterebbe tedioso per input larghi. Questo perché andrebbe a controllare una ad una tutte le somme possibili. In questo caso sarebbe lungo anche l&#x27;output per il debug.&lt;&#x2F;p&gt;
+&lt;h6 id=&quot;coppie-di-valori&quot;&gt;Coppie di valori&lt;&#x2F;h6&gt;
+&lt;p&gt;Controlliamo una ad una le coppie &lt;strong&gt;(9|2)&lt;&#x2F;strong&gt;, &lt;strong&gt;(6|7)&lt;&#x2F;strong&gt;, &lt;strong&gt;(1|0)&lt;&#x2F;strong&gt;, &lt;strong&gt;(30|4)&lt;&#x2F;strong&gt; considerando il primo elemento delle coppie come &lt;strong&gt;i dolcetti di Montalbano&lt;&#x2F;strong&gt; e il secondo per &lt;strong&gt;Francesco&lt;&#x2F;strong&gt; (o vice versa).
+Ora controllare l&#x27;ememento della coppia e inserirlo in una lista d&#x27;appoggio.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;WzHaqIO.png&quot; alt=&quot;pseudo code&quot; &#x2F;&gt;
+Gli elementi di suddette liste sarebbero &lt;strong&gt;[9, 1, 30]&lt;&#x2F;strong&gt; per Francesco e &lt;strong&gt;[7]&lt;&#x2F;strong&gt; per Montalbano. Vi si evince che non abbiamo rispettato il punto &lt;em&gt;4&lt;&#x2F;em&gt; delle note. E allora come si risolve? Dovremmo controllare la lista con più elementi e inserire, al posto degli elementi più piccoli, l&#x27;elemento a quell&#x27;indice.
+Prendiamo l&#x27;1 (elemento più piccolo della lista) e aggiungiamo all&#x27;altra il valore nell&#x27;indice di 1 (che in questo caso è 2). Il valore è 0.
+Cioè, &lt;strong&gt;[9, 30]&lt;&#x2F;strong&gt; e &lt;strong&gt;[7, 0]&lt;&#x2F;strong&gt;. E guarda caso il risultato è giusto: 46!&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;In questa tabella si vedono gli elementi selezionati e i loro indici (● sono gli elementi selezionati).&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;tabella 1&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;table class=&quot;table table-striped table-bordered&quot;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;td&gt;indice&lt;&#x2F;td&gt;
+            &lt;td&gt;francesco&lt;&#x2F;td&gt;
+            &lt;td&gt;montalbaro&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+    &lt;&#x2F;thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;td&gt;9 ●&lt;&#x2F;td&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;td&gt;7 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;1 (vecchio valore salvato)&lt;&#x2F;td&gt;&lt;td&gt;0 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;30 ●&lt;&#x2F;td&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+    &lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Questa soluzione non funziona per tutti, perché non sempre il valore è quello che cerchiamo. Prendiamo ad esempio&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;8 10 6 2 6 4 1 6 0 1 3 7 8 3 5 4 7&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Rendiamolo &lt;em&gt;zuccherino&lt;&#x2F;em&gt; per far vedere le coppie&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;tabella 2&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;table class=&quot;table table-striped table-bordered&quot;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;td&gt;indice&lt;&#x2F;td&gt;
+            &lt;td&gt;francesco&lt;&#x2F;td&gt;
+            &lt;td&gt;montalbaro&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+    &lt;&#x2F;thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;td&gt;10 ●&lt;&#x2F;td&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;6 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;4 ●&lt;&#x2F;td&gt;&lt;td&gt;1 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;6 ●&lt;&#x2F;td&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;3 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;5&lt;&#x2F;td&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;td&gt;8 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;5 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;7 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+    &lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;p&gt;Qui abbiamo due liste con lunghezze diverse &lt;strong&gt;[10, 4, 6]&lt;&#x2F;strong&gt; e &lt;strong&gt;[6, 3, 8, 5, 7]&lt;&#x2F;strong&gt;. Seguendo l&#x27;algoritmo di prima dovremmo prendere il valore &lt;strong&gt;3&lt;&#x2F;strong&gt; della seconda lista ma, il valore che andrebbe ad inserire sarebbe 1. Il risultato sarebbe 46! &lt;strong&gt;ERRATO&lt;&#x2F;strong&gt;.
+Infatti dovremmo togliere il valore &lt;strong&gt;8&lt;&#x2F;strong&gt; ed aggiungere quindi &lt;strong&gt;7&lt;&#x2F;strong&gt; nell&#x27;altra lista.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Ecco la tabella reale e corretta: somma 48.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;tabella 2.1&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;table class=&quot;table table-striped table-bordered&quot;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;td&gt;indice&lt;&#x2F;td&gt;
+            &lt;td&gt;francesco&lt;&#x2F;td&gt;
+            &lt;td&gt;montalbaro&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+    &lt;&#x2F;thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;td&gt;10 ●&lt;&#x2F;td&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;6 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;4 ●&lt;&#x2F;td&gt;&lt;td&gt;1 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;6 ●&lt;&#x2F;td&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;3 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;5&lt;&#x2F;td&gt;&lt;td&gt;7 ●&lt;&#x2F;td&gt;&lt;td&gt;8&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;5 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;7 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+    &lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Ma che fa, dovremmo tentare alla fortuna o andare per brute force?!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;soluzione&quot;&gt;Soluzione&lt;&#x2F;h1&gt;
+&lt;p&gt;Inseriamo gli elementi nella tabella utilizzando una coda di priorità. Essa usa come struttura una coda ma con la particolarità che gli elementi verranno inseriti seguendo un ordine con complessità pari a &lt;span&gt;\(O(\log n)\)&lt;&#x2F;span&gt;. Prendiamo d&#x27;esempio la _tabella 1.0_ e aggiungiamo una colonna che sarà uguale alla differenza tra francesco e montalbano.&lt;&#x2F;p&gt;
+* _tabella 3_
+&lt;table class=&quot;table table-striped table-bordered&quot;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;td&gt;indice&lt;&#x2F;td&gt;
+            &lt;td&gt;differenza&lt;&#x2F;td&gt;
+            &lt;td&gt;francesco&lt;&#x2F;td&gt;
+            &lt;td&gt;montalbaro&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+    &lt;&#x2F;thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;td&gt;9&lt;&#x2F;td&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;-1&lt;&#x2F;td&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;26&lt;&#x2F;td&gt;&lt;td&gt;30&lt;&#x2F;td&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+    &lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;p&gt;gli elementi verranno inseriti nella coda di priorità ordinatamente in modo decrescente per &lt;strong&gt;differenza&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;tabella 3.1&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;table class=&quot;table table-striped table-bordered&quot;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;td&gt;indice&lt;&#x2F;td&gt;
+            &lt;td&gt;differenza&lt;&#x2F;td&gt;
+            &lt;td&gt;francesco&lt;&#x2F;td&gt;
+            &lt;td&gt;montalbaro&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+    &lt;&#x2F;thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;26&lt;&#x2F;td&gt;&lt;td&gt;30&lt;&#x2F;td&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;td&gt;9&lt;&#x2F;td&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;-1&lt;&#x2F;td&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+    &lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;p&gt;Dato &lt;span&gt;\(N=4\)&lt;&#x2F;span&gt; dove &lt;span&gt;\(N\)&lt;&#x2F;span&gt; è il numero delle righe, sappiamo che dovremmo sommare per Francesco i primi &lt;span&gt;\(N&#x2F;2\)&lt;&#x2F;span&gt; e per Montalbano gli ultimi &lt;span&gt;\(N&#x2F;2\)&lt;&#x2F;span&gt;.&lt;&#x2F;p&gt;
+* _tabella 3.2_
+&lt;table class=&quot;table table-striped table-bordered&quot;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;td&gt;indice&lt;&#x2F;td&gt;
+            &lt;td&gt;differenza&lt;&#x2F;td&gt;
+            &lt;td&gt;francesco&lt;&#x2F;td&gt;
+            &lt;td&gt;montalbaro&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+    &lt;&#x2F;thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;26&lt;&#x2F;td&gt;&lt;td&gt;30 ●&lt;&#x2F;td&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;td&gt;9 ●&lt;&#x2F;td&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;0 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;-1&lt;&#x2F;td&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;td&gt;7 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+    &lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Prendiamo come esempio invece il vecchio&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;8 10 6 2 6 4 1 6 0 1 3 7 8 3 5 4 7&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Andiamo a modificare la &lt;em&gt;tabella 2.1&lt;&#x2F;em&gt;:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;tabella 3.3&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;table class=&quot;table table-striped table-bordered&quot;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;td&gt;indice&lt;&#x2F;td&gt;
+            &lt;td&gt;differenza&lt;&#x2F;td&gt;
+            &lt;td&gt;francesco&lt;&#x2F;td&gt;
+            &lt;td&gt;montalbaro&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+    &lt;&#x2F;thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;td&gt;6 ●&lt;&#x2F;td&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;10 ●&lt;&#x2F;td&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;4 ●&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;5&lt;&#x2F;td&gt;&lt;td&gt;-1&lt;&#x2F;td&gt;&lt;td&gt;7 ●&lt;&#x2F;td&gt;&lt;td&gt;8&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;td&gt;-2&lt;&#x2F;td&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;5 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;-2&lt;&#x2F;td&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;3 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;td&gt;-3&lt;&#x2F;td&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;7 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;-4&lt;&#x2F;d&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;6 ●&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+    &lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;p&gt;Come possiamo vedere fin da subito, la somma dei valori segnati è 48.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;implementazione&quot;&gt;Implementazione&lt;&#x2F;h1&gt;
+&lt;p&gt;Dell&#x27;indice non ci facciamo più nulla, quindi non lo salveremo.
+La classe &lt;a href=&quot;https:&#x2F;&#x2F;en.cppreference.com&#x2F;w&#x2F;cpp&#x2F;container&#x2F;priority_queue&quot;&gt;priority_queue&lt;&#x2F;a&gt; di STL implementa quasi sempre &lt;strong&gt;heap&lt;&#x2F;strong&gt; come struttura dati, la quale sposta nel suo albero il valore più alto (o che rispetta la comparazione) sempre in cima.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;cpp&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-cpp &quot;&gt;&lt;code class=&quot;language-cpp&quot; data-lang=&quot;cpp&quot;&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;using &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8ec07c;&quot;&gt;tii &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span&gt; tuple&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;int&lt;&#x2F;span&gt;&lt;span&gt;, &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;int&lt;&#x2F;span&gt;&lt;span&gt;, &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;int&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;;
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;for&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;int&lt;&#x2F;span&gt;&lt;span&gt; ts &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d3869b;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span&gt;; ts &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;&amp;lt; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d3869b;&quot;&gt;100&lt;&#x2F;span&gt;&lt;span&gt;; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;++&lt;&#x2F;span&gt;&lt;span&gt;ts) {
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;int&lt;&#x2F;span&gt;&lt;span&gt; N;
+&lt;&#x2F;span&gt;&lt;span&gt;    cin &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;&amp;gt;&amp;gt;&lt;&#x2F;span&gt;&lt;span&gt; N;
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;    priority_queue&amp;lt;tii, vector&amp;lt;tii&amp;gt;&amp;gt; pq;
+&lt;&#x2F;span&gt;&lt;span&gt;    tii qq;
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;for&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;int&lt;&#x2F;span&gt;&lt;span&gt; i &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d3869b;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span&gt;; i &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span&gt; N; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;++&lt;&#x2F;span&gt;&lt;span&gt;i) {
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;int&lt;&#x2F;span&gt;&lt;span&gt; e1, e2;
+&lt;&#x2F;span&gt;&lt;span&gt;        cin &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;&amp;gt;&amp;gt;&lt;&#x2F;span&gt;&lt;span&gt; e1 &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;&amp;gt;&amp;gt;&lt;&#x2F;span&gt;&lt;span&gt; e2;
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;get&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d3869b;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;&amp;gt;(qq) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span&gt; e1&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;-&lt;&#x2F;span&gt;&lt;span&gt;e2;
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;get&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d3869b;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;&amp;gt;(qq) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span&gt; e1;
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;get&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d3869b;&quot;&gt;2&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;&amp;gt;(qq) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span&gt; e2;
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;        pq.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;push&lt;&#x2F;span&gt;&lt;span&gt;(qq);
+&lt;&#x2F;span&gt;&lt;span&gt;    }
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;int&lt;&#x2F;span&gt;&lt;span&gt; counter &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span&gt; N;
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;int &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;sum{}&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;while&lt;&#x2F;span&gt;&lt;span&gt;(counter&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;-- &amp;gt;&lt;&#x2F;span&gt;&lt;span&gt; N&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d3869b;&quot;&gt;2&lt;&#x2F;span&gt;&lt;span&gt;) {
+&lt;&#x2F;span&gt;&lt;span&gt;        qq &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span&gt; pq.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;top&lt;&#x2F;span&gt;&lt;span&gt;();
+&lt;&#x2F;span&gt;&lt;span&gt;        sum &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;+= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;get&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d3869b;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;&amp;gt;(qq)&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;&#x2F;span&gt;&lt;span&gt;        pq.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;pop&lt;&#x2F;span&gt;&lt;span&gt;();
+&lt;&#x2F;span&gt;&lt;span&gt;    }
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;while&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;!&lt;&#x2F;span&gt;&lt;span&gt;pq.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;empty&lt;&#x2F;span&gt;&lt;span&gt;()) {
+&lt;&#x2F;span&gt;&lt;span&gt;        qq &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span&gt; pq.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;top&lt;&#x2F;span&gt;&lt;span&gt;();
+&lt;&#x2F;span&gt;&lt;span&gt;        sum &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;+= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;get&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d3869b;&quot;&gt;2&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;&amp;gt;(qq)&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;&#x2F;span&gt;&lt;span&gt;        pq.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;pop&lt;&#x2F;span&gt;&lt;span&gt;();
+&lt;&#x2F;span&gt;&lt;span&gt;    }
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;    cout &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;&amp;lt;&amp;lt;&lt;&#x2F;span&gt;&lt;span&gt; sum &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;&amp;lt;&amp;lt;&lt;&#x2F;span&gt;&lt;span&gt; endl;
+&lt;&#x2F;span&gt;&lt;span&gt;}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</description>
+      </item>
+      <item>
+          <title>hello, world</title>
+          <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/hello-world/</link>
+          <guid>https://dcariotti.me/blog/hello-world/</guid>
+          <description>&lt;p&gt;hi, this is me with my new (first) blog 🤓&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;media.tenor.com&#x2F;images&#x2F;df8c44a1d20ab367fdcb21880985fd33&#x2F;tenor.gif&quot; alt=&quot;cat&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
