@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Southpaw](https://www.imdb.com/title/tt1798684/) &middot; `may, 27th`
+
 ### [The Fighter](https://www.imdb.com/title/tt0964517/) &middot; `may, 18th`
 
 ### [Gran Torino](https://www.imdb.com/title/tt1205489/) &middot; `may, 10th`
