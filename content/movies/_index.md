@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [The Internship](https://www.imdb.com/title/tt2234155/) &middot; `jun, 9th`
+
 ### [Southpaw](https://www.imdb.com/title/tt1798684/) &middot; `may, 27th`
 
 ### [The Fighter](https://www.imdb.com/title/tt0964517/) &middot; `may, 18th`
