@@ -5,7 +5,7 @@ title = "Movies"
 
 ## \#\# 2025
 
-### [One Day](https://www.imdb.com/title/tt16283804/) &middot; `jun, 13rd`
+### [One Day](https://www.imdb.com/title/tt16283804/) &middot; `jun, 14th`
 
 ### [Birdman or (The Unexpected Virtue of Ignorance)](https://www.imdb.com/title/tt2562232/) &middot; `jun, 11th`
 
@@ -75,7 +75,7 @@ title = "Movies"
 
 ### [La Chimera](https://www.imdb.com/title/tt14561712/) &middot; `sep, 15th`
 
-### [Nomadland](https://www.imdb.com/title/tt9770150/) &middot; `sep, 13rd`
+### [Nomadland](https://www.imdb.com/title/tt9770150/) &middot; `sep, 13th`
 
 ### [Rush](https://www.imdb.com/title/tt1979320/) &middot; `sep, 8th`
 
