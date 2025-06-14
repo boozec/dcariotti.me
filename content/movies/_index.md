@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [One Day](https://www.imdb.com/title/tt16283804/) &middot; `jun, 13rd`
+
 ### [Birdman or (The Unexpected Virtue of Ignorance)](https://www.imdb.com/title/tt2562232/) &middot; `jun, 11th`
 
 ### [The Internship](https://www.imdb.com/title/tt2234155/) &middot; `jun, 9th`
