@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [The Curious Case of Benjamin Button](https://www.imdb.com/title/tt0421715/) &middot; `jun, 14th`
+
 ### [One Day](https://www.imdb.com/title/tt16283804/) &middot; `jun, 14th`
 
 ### [Birdman or (The Unexpected Virtue of Ignorance)](https://www.imdb.com/title/tt2562232/) &middot; `jun, 11th`
