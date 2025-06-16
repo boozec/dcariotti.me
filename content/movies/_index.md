@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Killers of the Flower Moon](https://www.imdb.com/title/tt5537002/) &middot; `jun, 15th`
+
 ### [The Curious Case of Benjamin Button](https://www.imdb.com/title/tt0421715/) &middot; `jun, 14th`
 
 ### [One Day](https://www.imdb.com/title/tt16283804/) &middot; `jun, 14th`
