@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Verdens verste menneske](https://www.imdb.com/title/tt10370710/) &middot; `jun, 30th`
+
 ### [Kodachrome](https://www.imdb.com/title/tt1880399/) &middot; `jun, 18th`
 
 ### [Killers of the Flower Moon](https://www.imdb.com/title/tt5537002/) &middot; `jun, 15th`
