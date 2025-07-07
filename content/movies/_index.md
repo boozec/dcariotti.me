@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Bezos](https://www.imdb.com/title/tt15559582/) &middot; `jul, 6th`
+
 ### [Verdens verste menneske](https://www.imdb.com/title/tt10370710/) &middot; `jun, 30th`
 
 ### [Kodachrome](https://www.imdb.com/title/tt1880399/) &middot; `jun, 18th`
