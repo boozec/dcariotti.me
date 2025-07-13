@@ -5,6 +5,10 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [F1](https://www.imdb.com/title/tt16311594/) &middot; `jul, 12th`
+
+### [Fantozzi](https://www.imdb.com/title/tt0071486/) &middot; `jul, 12th`
+
 ### [Bezos](https://www.imdb.com/title/tt15559582/) &middot; `jul, 6th`
 
 ### [Verdens verste menneske](https://www.imdb.com/title/tt10370710/) &middot; `jun, 30th`
