@@ -2,7 +2,6 @@
 // IMPORTS
 //
 
-@import "ubuntu";
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -203,14 +202,15 @@ img {
 .masthead {
   padding: 1em;
   border-radius: 2px;
-  width: 340px;
-  position: fixed;
+  display: flex;
+  width: 100%;
 
   @include mobile {
     text-align: center;
     width: auto;
     position: relative;
     border: none;
+    display: block;
   }
 }
 

@@ -11,7 +11,7 @@ render_emoji = true
 
 [extra]
 name = "Santo Cariotti"
-description = "Computer Programmer 🧘 from Italy"
+description = "Computer Programmer ⌨️🤖"
 avatar = "/avatar.jpg"
 social_git = "http://git.dcariotti.me"
 social_github = "boozec"
