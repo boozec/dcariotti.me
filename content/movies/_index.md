@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [A Complete Unknown](https://www.imdb.com/title/tt11563598/) &middot; `jul, 16th`
+
 ### [F1](https://www.imdb.com/title/tt16311594/) &middot; `jul, 12th`
 
 ### [Fantozzi](https://www.imdb.com/title/tt0071486/) &middot; `jul, 12th`
