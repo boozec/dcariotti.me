@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/) &middot; `jul, 20th`
+
 ### [A Complete Unknown](https://www.imdb.com/title/tt11563598/) &middot; `jul, 16th`
 
 ### [F1](https://www.imdb.com/title/tt16311594/) &middot; `jul, 12th`
