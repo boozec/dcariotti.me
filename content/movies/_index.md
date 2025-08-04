@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Superman](https://www.imdb.com/title/tt5950044/) &middot; `aug, 3rd`
+
 ### [Transformers](https://www.imdb.com/title/tt0418279/) &middot; `jul, 27th`
 
 ### [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/) &middot; `jul, 20th`
