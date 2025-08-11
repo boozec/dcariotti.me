@@ -5,6 +5,12 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [How to Train Your Dragon 2](https://www.imdb.com/title/tt1646971/) &middot; `aug, 6th`
+
+### [Il ragazzo dai pantaloni rosa](https://www.imdb.com/title/tt31712800/) &middot; `aug, 6th`
+
+### [Downsizing](https://www.imdb.com/title/tt1389072/) &middot; `aug, 5th`
+
 ### [Superman](https://www.imdb.com/title/tt5950044/) &middot; `aug, 3rd`
 
 ### [Transformers](https://www.imdb.com/title/tt0418279/) &middot; `jul, 27th`
