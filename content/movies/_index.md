@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [BlackBerry](https://www.imdb.com/title/tt21867434/) &middot; `aug, 21st`
+
 ### [How to Train Your Dragon 2](https://www.imdb.com/title/tt1646971/) &middot; `aug, 6th`
 
 ### [Il ragazzo dai pantaloni rosa](https://www.imdb.com/title/tt31712800/) &middot; `aug, 6th`
