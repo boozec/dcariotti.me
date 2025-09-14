@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Man Of Steel](https://www.imdb.com/title/tt0770828/) &middot; `sep, 14th`
+
 ### [Mr. Deeds](https://www.imdb.com/title/tt0280590/) &middot; `aug, 25th`
 
 ### [BlackBerry](https://www.imdb.com/title/tt21867434/) &middot; `aug, 21st`
