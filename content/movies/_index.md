@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Batman v Superman: Dawn of Justice](https://www.imdb.com/title/tt2975590/) &middot; `sep, 16th`
+
 ### [Man Of Steel](https://www.imdb.com/title/tt0770828/) &middot; `sep, 14th`
 
 ### [Mr. Deeds](https://www.imdb.com/title/tt0280590/) &middot; `aug, 25th`
