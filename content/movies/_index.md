@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Wonder Woman](https://www.imdb.com/title/tt0451279/) &middot; `sep, 20th`
+
 ### [Batman v Superman: Dawn of Justice](https://www.imdb.com/title/tt2975590/) &middot; `sep, 16th`
 
 ### [Man Of Steel](https://www.imdb.com/title/tt0770828/) &middot; `sep, 14th`
