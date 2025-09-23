@@ -5,6 +5,10 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [The Life of Chuck](https://www.imdb.com/title/tt12908150/) &middot; `sep, 22th`
+
+### [Materialists](https://www.imdb.com/title/tt30253473/) &middot; `sep, 21th`
+
 ### [Wonder Woman](https://www.imdb.com/title/tt0451279/) &middot; `sep, 20th`
 
 ### [Batman v Superman: Dawn of Justice](https://www.imdb.com/title/tt2975590/) &middot; `sep, 16th`
