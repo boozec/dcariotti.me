@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [A Clockwork Orange](https://www.imdb.com/title/tt0066921/) &middot; `oct, 14th`
+
 ### [Justice League](https://www.imdb.com/title/tt0974015/) &middot; `sep, 24th`
 
 ### [The Life of Chuck](https://www.imdb.com/title/tt12908150/) &middot; `sep, 22th`
