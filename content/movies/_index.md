@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [One Battle After Another](https://www.imdb.com/title/tt30144839/) &middot; `oct, 17th`
+
 ### [A Clockwork Orange](https://www.imdb.com/title/tt0066921/) &middot; `oct, 14th`
 
 ### [Justice League](https://www.imdb.com/title/tt0974015/) &middot; `sep, 24th`
