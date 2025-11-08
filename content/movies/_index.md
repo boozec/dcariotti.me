@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Steve](https://www.imdb.com/title/tt32985279/) &middot; `nov, 8th`
+
 ### [Bugonia](https://www.imdb.com/title/tt12300742/) &middot; `nov, 7th`
 
 ### [One Battle After Another](https://www.imdb.com/title/tt30144839/) &middot; `oct, 17th`
