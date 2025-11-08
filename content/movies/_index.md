@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Bugonia](https://www.imdb.com/title/tt12300742/) &middot; `nov, 7th`
+
 ### [One Battle After Another](https://www.imdb.com/title/tt30144839/) &middot; `oct, 17th`
 
 ### [A Clockwork Orange](https://www.imdb.com/title/tt0066921/) &middot; `oct, 14th`
