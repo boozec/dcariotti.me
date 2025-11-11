@@ -396,8 +396,12 @@ footer {
 }
 
 code {
-  color: #44bd32;
+  color: $black;
+  background: #A7F175;
+  padding: 5px 10px;
+  border-radius: 4px;
   font-family: $gitlabmono;
+  font-weight: 200;
 }
 
 table {
