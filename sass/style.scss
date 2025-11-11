@@ -19,15 +19,23 @@ html {
   font-size: 18px;
 }
 
+a {
+  border-bottom: $darkGray 3px solid;
+  font-weight: bold !important;
+  &:hover {
+    text-decoration: none !important;
+  }
+}
+
 body {
   font: 18px/1.4 $helvetica;
-  color: $lightGray;
-  background-color: #010409;
+  color: $black;
+  background-color: #fafafa;
 }
 
 .container {
   margin: 20px auto;
-  max-width: 1280px;
+  max-width: 1024px;
   padding: 0 1.25rem;
   width: 100%;
   &.row .col-12 {
@@ -157,7 +165,6 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
 }
 
 // Specify the color of the selection
@@ -222,6 +229,7 @@ img {
   background-position: center;
   border-radius: 100%;
   display: block;
+  border: none;
   margin: 0 auto;
 
   @include mobile {
@@ -246,9 +254,14 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $gitlabmono;
-  font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  line-height: 70px;
+  
+  a {
+    font-weight: bold;
+    border: none;
+  }
 }
 
 .site-description {
@@ -285,13 +298,10 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
     letter-spacing: 1px;
+    font-weight: bold;
     &:hover {
       color: $darkGray;
-      text-decoration: none;
-      border-bottom: 2px lighten($green, 20%) solid;
-      padding-bottom: 3px;
     }
 
     @include mobile {
@@ -344,8 +354,10 @@ img.center {
 
 .post {
   h1 {
-    color: $green;
     margin: 0 0 1em;
+    a {
+      font-weight: bold;
+    }
   }
 
   blockquote {
@@ -384,6 +396,7 @@ footer {
 }
 
 code {
+  color: #44bd32;
   font-family: $gitlabmono;
 }
 

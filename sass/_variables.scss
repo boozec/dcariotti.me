@@ -3,8 +3,8 @@
 //
 
 @font-face {
-  font-family: 'Momo Trust Sans';
-  src: URL('/static/fonts/MomoTrustSans.ttf') format('truetype');
+  font-family: 'Fira Code';
+  src: URL('/static/fonts/FiraCode.ttf') format('truetype');
 }
 
 @font-face {
@@ -14,7 +14,7 @@
 
 
 // Colors
-$green: #2ecc71;
+$green: #111;
 
 // Grays
 $black: #000;
@@ -22,11 +22,12 @@ $darkerGray: #222;
 $darkGray: #333;
 $gray: #95a5a6;
 $lightGray: #afbac4;
-$white: #fafafa;
+/* $white: #fafafa; */
+$white: #111;
 
 // Font stacks
 $helvetica: Inter, Helvetica, Arial, sans-serif;
-$gitlabmono: "Momo Trust Sans", Inter, sans-serif;
+$gitlabmono: "Fira Code", monospace;
 
 // Mobile breakpoints
 @mixin mobile {

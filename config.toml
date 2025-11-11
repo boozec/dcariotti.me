@@ -11,11 +11,11 @@ render_emoji = true
 
 [extra]
 name = "Santo Cariotti"
-description = "Computer Programmer ⌨️🤖"
+description = ""
 avatar = "/avatar.jpg"
 social_git = "http://git.dcariotti.me"
 social_github = "boozec"
-social_gitlab = "boozec"
-social_instagram = "arcticsanto"
+# social_gitlab = "boozec"
+# social_instagram = "arcticsanto"
 social_linkedin = "santocariotti"
 social_mastodon = "hachyderm.io/@sa"
