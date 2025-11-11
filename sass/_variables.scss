@@ -2,6 +2,17 @@
 // VARIABLES
 //
 
+@font-face {
+  font-family: 'Momo Trust Sans';
+  src: URL('/static/fonts/MomoTrustSans.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: URL('/static/fonts/Inter.ttf') format('truetype');
+}
+
+
 // Colors
 $green: #2ecc71;
 
@@ -14,8 +25,8 @@ $lightGray: #afbac4;
 $white: #fafafa;
 
 // Font stacks
-$helvetica: Ubuntu, Helvetica, Arial, sans-serif;
-$gitlabmono: "Gitlab Mono", Ubuntu, sans-serif;
+$helvetica: Inter, Helvetica, Arial, sans-serif;
+$gitlabmono: "Momo Trust Sans", Inter, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
