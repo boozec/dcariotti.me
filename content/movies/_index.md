@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Annie Hall](https://www.imdb.com/title/tt0075686/) &middot; `nov, 13th`
+
 ### [Steve](https://www.imdb.com/title/tt32985279/) &middot; `nov, 8th`
 
 ### [Bugonia](https://www.imdb.com/title/tt12300742/) &middot; `nov, 7th` 🎥
