@@ -7,17 +7,17 @@ title = "Movies"
 
 ### [Steve](https://www.imdb.com/title/tt32985279/) &middot; `nov, 8th`
 
-### [Bugonia](https://www.imdb.com/title/tt12300742/) &middot; `nov, 7th`
+### [Bugonia](https://www.imdb.com/title/tt12300742/) &middot; `nov, 7th` 🎥
 
-### [One Battle After Another](https://www.imdb.com/title/tt30144839/) &middot; `oct, 17th`
+### [One Battle After Another](https://www.imdb.com/title/tt30144839/) &middot; `oct, 17th` 🎥
 
-### [A Clockwork Orange](https://www.imdb.com/title/tt0066921/) &middot; `oct, 14th`
+### [A Clockwork Orange](https://www.imdb.com/title/tt0066921/) &middot; `oct, 14th` 🎥
 
 ### [Justice League](https://www.imdb.com/title/tt0974015/) &middot; `sep, 24th`
 
-### [The Life of Chuck](https://www.imdb.com/title/tt12908150/) &middot; `sep, 22th`
+### [The Life of Chuck](https://www.imdb.com/title/tt12908150/) &middot; `sep, 22th` 🎥
 
-### [Materialists](https://www.imdb.com/title/tt30253473/) &middot; `sep, 21th`
+### [Materialists](https://www.imdb.com/title/tt30253473/) &middot; `sep, 21th` 🎥
 
 ### [Wonder Woman](https://www.imdb.com/title/tt0451279/) &middot; `sep, 20th`
 
@@ -39,11 +39,11 @@ title = "Movies"
 
 ### [Transformers](https://www.imdb.com/title/tt0418279/) &middot; `jul, 27th`
 
-### [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/) &middot; `jul, 20th`
+### [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/) &middot; `jul, 20th` 🎥
 
 ### [A Complete Unknown](https://www.imdb.com/title/tt11563598/) &middot; `jul, 16th`
 
-### [F1](https://www.imdb.com/title/tt16311594/) &middot; `jul, 12th`
+### [F1](https://www.imdb.com/title/tt16311594/) &middot; `jul, 12th` 🎥
 
 ### [Fantozzi](https://www.imdb.com/title/tt0071486/) &middot; `jul, 12th`
 
@@ -81,7 +81,7 @@ title = "Movies"
 
 ### [The Order](https://www.imdb.com/title/tt26625693/) &middot; `mar, 14th`
 
-### [Mickey 17](https://www.imdb.com/title/tt12299608/) &middot; `mar, 12th`
+### [Mickey 17](https://www.imdb.com/title/tt12299608/) &middot; `mar, 12th` 🎥
 
 ### [Il Divo](https://www.imdb.com/title/tt1023490/) &middot; `mar, 9th`
 
@@ -95,11 +95,11 @@ title = "Movies"
 
 ### [The Hangover](https://www.imdb.com/title/tt1119646/) &middot; `feb, 9th`
 
-### [The Brutalist](https://www.imdb.com/title/tt8999762/) &middot; `feb, 8th`
+### [The Brutalist](https://www.imdb.com/title/tt8999762/) &middot; `feb, 8th` 🎥
 
 ### [Inglourious Basterds](https://www.imdb.com/title/tt0361748/) &middot; `feb, 6th`
 
-### [Nosferatu](https://www.imdb.com/title/tt5040012/) &middot; `jan, 18th`
+### [Nosferatu](https://www.imdb.com/title/tt5040012/) &middot; `jan, 18th` 🎥
 
 ### [Deep Water](https://www.imdb.com/title/tt2180339/) &middot; `jan, 17th`
 
@@ -133,8 +133,6 @@ title = "Movies"
 
 ### [The Gentlemen](https://www.imdb.com/title/tt8367814/) &middot; `sep, 4th`
 
-### [Oppenheimer](https://www.imdb.com/title/tt15398776/) &middot; `sep, 2nd`
-
 ### [Dune](https://www.imdb.com/title/tt1160419/) &middot; `aug, 26th`
 
 ### [Killing Them Softly](https://www.imdb.com/title/tt1764234/) &middot; `aug, 9th`
@@ -149,45 +147,45 @@ title = "Movies"
 
 ### [Sapore di Mare](https://www.imdb.com/title/tt0086240/) &middot; `jul, 20th`
 
-### [Harry Potter and the Prisoner of Azkaban](https://www.imdb.com/title/tt0304141/) &middot; `jul, 9th`
+### [Harry Potter and the Prisoner of Azkaban](https://www.imdb.com/title/tt0304141/) &middot; `jul, 9th` 🎥
 
-### [The Dreamers](https://www.imdb.com/title/tt0309987/) &middot; `jul, 8th`
+### [The Dreamers](https://www.imdb.com/title/tt0309987/) &middot; `jul, 8th` 🎥
 
-### [Perfect Days](https://www.imdb.com/title/tt27503384/) &middot; `jul, 5th`
+### [Perfect Days](https://www.imdb.com/title/tt27503384/) &middot; `jul, 5th` 🎥
 
 ### [È stata la mano di Dio](https://www.imdb.com/title/tt12680684/) &middot; `jul, 3rd`
 
-### [Asteroid City](https://www.imdb.com/title/tt14230388/) &middot; `jul, 2nd`
+### [Asteroid City](https://www.imdb.com/title/tt14230388/) &middot; `jul, 2nd` 🎥
 
-### [Drive-Away Dolls](https://www.imdb.com/title/tt19356262/) &middot; `jun, 28th`
+### [Drive-Away Dolls](https://www.imdb.com/title/tt19356262/) &middot; `jun, 28th` 🎥
 
-### [Detachment](https://www.imdb.com/title/tt1683526/) &middot; `jun, 26th`
+### [Detachment](https://www.imdb.com/title/tt1683526/) &middot; `jun, 26th` 🎥
 
 ### [Il Signore delle Formiche](https://www.imdb.com/title/tt14575898/) &middot; `jun, 22nd`
 
 ### [Chef](https://www.imdb.com/title/tt2883512/) &middot; `jun, 22nd`
 
-### [Inside Out 2](https://www.imdb.com/title/tt22022452/) &middot; `jun, 21st`
+### [Inside Out 2](https://www.imdb.com/title/tt22022452/) &middot; `jun, 21st` 🎥
 
 ### [Manchester by the Sea](https://www.imdb.com/title/tt4034228/) &middot; `jun, 16th`
 
 ### [Nowhere](https://www.imdb.com/title/tt15789472/) &middot; `jun, 8th`
 
-### [Kinds of Kindness](https://www.imdb.com/title/tt22408160/) &middot; `jun, 7th`
+### [Kinds of Kindness](https://www.imdb.com/title/tt22408160/) &middot; `jun, 7th` 🎥
 
 ### [The Revenant](https://www.imdb.com/title/tt1663202/) &middot; `jun, 4th`
 
-### [Troppo Azzurro](https://www.imdb.com/title/tt29333393/) &middot; `may, 30th`
+### [Troppo Azzurro](https://www.imdb.com/title/tt29333393/) &middot; `may, 30th` 🎥
 
-### [The Virgin Suicides](https://www.imdb.com/title/tt0159097/) &middot; `may, 23rd`
+### [The Virgin Suicides](https://www.imdb.com/title/tt0159097/) &middot; `may, 23rd` 🎥
 
 ### [I Cento Passi](https://www.imdb.com/title/tt0238891/) &middot; `may, 17th`
 
-### [Challengers](https://www.imdb.com/title/tt16426418/) &middot; `may, 10th`
+### [Challengers](https://www.imdb.com/title/tt16426418/) &middot; `may, 10th` 🎥
 
 ### [Shrek](https://www.imdb.com/title/tt0126029/) &middot; `may, 7th`
 
-### [Confidenza](https://www.imdb.com/title/tt16227830/) &middot; `may, 4th`
+### [Confidenza](https://www.imdb.com/title/tt16227830/) &middot; `may, 4th` 🎥
 
 ### [The Godfather](https://www.imdb.com/title/tt0068646/) &middot; `apr, 30th`
 
@@ -199,7 +197,7 @@ title = "Movies"
 
 ### [La Meglio Gioventù](https://www.imdb.com/title/tt0346336/) &middot; `apr, 14th`
 
-### [Her](https://www.imdb.com/title/tt1798709/) &middot; `mar, 6th`
+### [Her](https://www.imdb.com/title/tt1798709/) &middot; `mar, 6th` 🎥
 
 ### [Smetto Quando Voglio: Ad honorem](https://www.imdb.com/title/tt5897292/) &middot; `mar, 1st`
 
@@ -213,21 +211,21 @@ title = "Movies"
 
 ### [Cast Away](https://www.imdb.com/title/tt0162222/) &middot; `feb, 5th`
 
-### [Poor Things](https://www.imdb.com/title/tt14230458/) &middot; `feb, 4th`
+### [Poor Things](https://www.imdb.com/title/tt14230458/) &middot; `feb, 4th` 🎥
 
-### [Enea](https://www.imdb.com/title/tt27219440/) &middot; `jan, 17th`
+### [Enea](https://www.imdb.com/title/tt27219440/) &middot; `jan, 17th` 🎥
 
 ## \#\# 2023
 
-### [Santocielo](https://www.imdb.com/title/tt27683368/) &middot; `dec, 26th`
+### [Santocielo](https://www.imdb.com/title/tt27683368/) &middot; `dec, 26th` 🎥
 
 ### [Zodiac](https://www.imdb.com/title/tt0443706/) &middot; `dec, 18th`
 
-### [Ferrari](https://www.imdb.com/title/tt3758542/) &middot; `dec, 17th`
+### [Ferrari](https://www.imdb.com/title/tt3758542/) &middot; `dec, 17th` 🎥
 
 ### [The Pope's Exorcist](https://www.imdb.com/title/tt13375076/) &middot; `dec, 12th`
 
-### [Napoleon](https://www.imdb.com/title/tt13287846/) &middot; `nov, 29th`
+### [Napoleon](https://www.imdb.com/title/tt13287846/) &middot; `nov, 29th` 🎥
 
 ### [Blade Runner 2049](https://www.imdb.com/title/tt1856101/) &middot; `nov, 9th`
 
@@ -247,7 +245,7 @@ title = "Movies"
 
 ### [Moneyball](https://www.imdb.com/title/tt1210166/) &middot; `sep, 19th`
 
-### [A Haunting in Venice](https://www.imdb.com/title/tt22687790/) &middot; `sep, 18th`
+### [A Haunting in Venice](https://www.imdb.com/title/tt22687790/) &middot; `sep, 18th` 🎥
 
 ### [Black Panther: Wakanda Forever](https://www.imdb.com/title/tt9114286/) &middot; `sep, 17th`
 
@@ -265,7 +263,7 @@ title = "Movies"
 
 ### [Spider-Man: Far from Home](https://www.imdb.com/title/tt6320628/) &middot; `aug, 29th`
 
-### [Oppenheimer](https://www.imdb.com/title/tt15398776/) &middot; `aug, 23rd`
+### [Oppenheimer](https://www.imdb.com/title/tt15398776/) &middot; `aug, 23rd` 🎥
 
 ### [Supereroi](https://www.imdb.com/title/tt10791152/) &middot; `aug, 21st`
 
@@ -275,7 +273,7 @@ title = "Movies"
 
 ### [Ford v Ferrari](https://www.imdb.com/title/tt1950186/) &middot; `aug, 13th`
 
-### [Barbie](https://www.imdb.com/title/tt1517268/) &middot; `jul, 29th`
+### [Barbie](https://www.imdb.com/title/tt1517268/) &middot; `jul, 29th` 🎥
 
 ### [The Matrix](https://www.imdb.com/title/tt0133093/) &middot; `jul, 16th`
 
@@ -315,7 +313,7 @@ title = "Movies"
 
 ### [360](https://www.imdb.com/title/tt1680045/) &middot; `apr, 15th`
 
-### [The Super Mario Bros. Movie](https://www.imdb.com/title/tt6718170/) &middot; `apr, 14th`
+### [The Super Mario Bros. Movie](https://www.imdb.com/title/tt6718170/) &middot; `apr, 14th` 🎥
 
 ### [The Holiday](https://www.imdb.com/title/tt0457939/) &middot; `apr, 11th`
 
@@ -339,7 +337,7 @@ title = "Movies"
 
 ## \#\# 2022
 
-### [Avatar: The Way of Water](https://www.imdb.com/title/tt1630029/) &middot; `dec, 28th`
+### [Avatar: The Way of Water](https://www.imdb.com/title/tt1630029/) &middot; `dec, 28th` 🎥
 
 ### [The Dark Knight](https://www.imdb.com/title/tt0468569/) &middot; `dec, 26th`
 
@@ -377,13 +375,13 @@ title = "Movies"
 
 ### [Eat Pray Love](https://www.imdb.com/title/tt0879870/) &middot; `aug, 21st`
 
-### [House of Gucci](https://www.imdb.com/title/tt11214590/) &middot; `aug, 11th`
+### [House of Gucci](https://www.imdb.com/title/tt11214590/) &middot; `aug, 11th` 🎥
 
 ### [Charlie and the Chocolate Factory](https://www.imdb.com/title/tt0367594/) &middot; `aug, 11th`
 
 ### [The Intern](https://www.imdb.com/title/tt2361509/) &middot; `aug, 9th`
 
-### [Elvis](https://www.imdb.com/title/tt3704428/) &middot; `jul, 1st`
+### [Elvis](https://www.imdb.com/title/tt3704428/) &middot; `jul, 1st` 🎥
 
 ### [Toscana](https://www.imdb.com/title/tt13276352/) &middot; `jun, 27th`
 
