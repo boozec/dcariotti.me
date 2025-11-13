@@ -7,7 +7,7 @@ title = "About"
 
 ![me.jpg](/i/me.jpg)
 
-Hello, I am **Santo**, a Sicilian computer scientist who graduated with honors from the [University of Bologna](https://cs.unibo.it).
+Hello, I am **Santo**, a Sicilian computer scientist who graduated with honours from the [University of Bologna](https://cs.unibo.it).
 
 Daily, I spend my time working on distributed systems with [Go](https://go.dev/) and [Rust](https://rust-lang.org/).
 
