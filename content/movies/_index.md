@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Ghostbusters](https://www.imdb.com/title/tt0087332/) &middot; `nov, 22th`
+
 ### [Manhattan](https://www.imdb.com/title/tt0079522/) &middot; `nov, 18th`
 
 ### [Annie Hall](https://www.imdb.com/title/tt0075686/) &middot; `nov, 13th`
