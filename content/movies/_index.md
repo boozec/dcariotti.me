@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Gone Girl](https://www.imdb.com/title/tt2267998/) &middot; `nov, 25th`
+
 ### [Ghostbusters](https://www.imdb.com/title/tt0087332/) &middot; `nov, 22th`
 
 ### [Manhattan](https://www.imdb.com/title/tt0079522/) &middot; `nov, 18th`
