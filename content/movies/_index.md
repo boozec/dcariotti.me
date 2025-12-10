@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2025
 
+### [Django Unchained](https://www.imdb.com/title/tt1853728/) &middot; `dec, 8th`
+
 ### [Goodfellas](https://www.imdb.com/title/tt0099685/) &middot; `nov, 26th`
 
 ### [Gone Girl](https://www.imdb.com/title/tt2267998/) &middot; `nov, 25th`
