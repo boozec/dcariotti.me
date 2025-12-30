@@ -5,7 +5,7 @@ title = "Movies"
 
 ## \#\# 2025
 
-### [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/) &middot; `dec, 25th`
+### [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/) &middot; `dec, 25th` 🎥
 
 ### [Django Unchained](https://www.imdb.com/title/tt1853728/) &middot; `dec, 8th`
 
