@@ -3,6 +3,10 @@ template = "page.html"
 title = "Movies"
 +++
 
+## \#\# 2026
+
+### [Ricky Gervais: Mortality](https://www.imdb.com/title/tt32767869/) &middot; `jan, 4th`
+
 ## \#\# 2025
 
 ### [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/) &middot; `dec, 25th` 🎥
