@@ -11,7 +11,7 @@ title = "Movies"
 
 ### [Le città di pianura](https://www.imdb.com/title/tt36491632/) &middot; `jan, 24th`
 
-### [Marty Supreme](https://www.imdb.com/title/tt32916440/) &middot; `jan, 23th`
+### [Marty Supreme](https://www.imdb.com/title/tt32916440/) &middot; `jan, 23th` 🎥
 
 ### [Ricky Gervais: Mortality](https://www.imdb.com/title/tt32767869/) &middot; `jan, 4th`
 
