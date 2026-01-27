@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [Frankenstein](https://www.imdb.com/title/tt1312221/) &middot; `jan, 27th`
+
 ### [Awakenings](https://www.imdb.com/title/tt0099077/) &middot; `jan, 25th`
 
 ### [The Godfather Part II](https://www.imdb.com/title/tt0071562/) &middot; `jan, 24th`
