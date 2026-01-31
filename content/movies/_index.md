@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/) &middot; `jan, 31th`
+
 ### [Le Haine](https://www.imdb.com/title/tt0113247/) &middot; `jan, 31th`
 
 ### [Train Dreams](https://www.imdb.com/title/tt29768334/) &middot; `jan, 28th`
