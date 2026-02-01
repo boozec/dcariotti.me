@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [Oldboy](https://www.imdb.com/title/tt0364569/) &middot; `feb, 1st`
+
 ### [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/) &middot; `jan, 31th`
 
 ### [Le Haine](https://www.imdb.com/title/tt0113247/) &middot; `jan, 31th`
