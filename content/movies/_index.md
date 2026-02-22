@@ -5,9 +5,12 @@ title = "Movies"
 
 ## \#\# 2026
 
+
+### [Sirât](www.imdb.com/it/title/tt32298285/) &middot; `feb, 22th`
+
 ### [Drive My Car](https://www.imdb.com/title/tt14039582) &middot; `feb, 9th`
 
-### [Hamnet](https://www.imdb.com/title/tt14905854) &middot; `feb, 7th`
+### [Hamnet](https://www.imdb.com/title/tt14905854) &middot; `feb, 7th` 🎥
 
 ### [Aftersun](https://www.imdb.com/title/tt19770238) &middot; `feb, 4th`
 
