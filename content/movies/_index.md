@@ -5,6 +5,7 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [Wuthering Heights](www.imdb.com/it/title/tt32897959/) &middot; `mar, 1st` 🎥
 
 ### [The Darjeeling Limited](www.imdb.com/it/title/tt0838221/) &middot; `feb, 22th`
 
