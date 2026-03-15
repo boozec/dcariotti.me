@@ -5,6 +5,10 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [All of Us Strangers](www.imdb.com/it/title/tt21192142/) &middot; `mar, 15th`
+
+### [Springsteen: Deliver Me from Nowhere](www.imdb.com/it/title/tt31923069/) &middot; `mar, 15th`
+
 ### [Anatomie d'une chute](www.imdb.com/it/title/tt17009710/) &middot; `mar, 8th`
 
 ### [Wuthering Heights](www.imdb.com/it/title/tt32897959/) &middot; `mar, 1st` 🎥
