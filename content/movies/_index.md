@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [Phantom Thread](www.imdb.com/it/title/tt5776858/) &middot; `mar, 22th`
+
 ### [All of Us Strangers](www.imdb.com/it/title/tt21192142/) &middot; `mar, 15th`
 
 ### [Springsteen: Deliver Me from Nowhere](www.imdb.com/it/title/tt31923069/) &middot; `mar, 15th`
