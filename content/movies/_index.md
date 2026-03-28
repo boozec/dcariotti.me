@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [Peaky Blinders: The Immortal Man](www.imdb.com/it/title/tt15574124/) &middot; `mar, 28th`
+
 ### [Phantom Thread](www.imdb.com/it/title/tt5776858/) &middot; `mar, 22th`
 
 ### [All of Us Strangers](www.imdb.com/it/title/tt21192142/) &middot; `mar, 15th`
