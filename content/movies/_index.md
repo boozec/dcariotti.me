@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [The Drama](www.imdb.com/it/title/tt33071426/) &middot; `apr, 5th` 🎥
+
 ### [Good Time](www.imdb.com/it/title/tt4846232/) &middot; `mar, 28th`
 
 ### [Peaky Blinders: The Immortal Man](www.imdb.com/it/title/tt15574124/) &middot; `mar, 28th`
