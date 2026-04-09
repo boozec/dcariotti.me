@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [Syk pike](www.imdb.com/it/title/tt18816518/) &middot; `apr, 8th`
+
 ### [The Drama](www.imdb.com/it/title/tt33071426/) &middot; `apr, 5th` 🎥
 
 ### [Good Time](www.imdb.com/it/title/tt4846232/) &middot; `mar, 28th`
