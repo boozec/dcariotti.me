@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [The Super Mario Galaxy Movie](www.imdb.com/it/title/tt28650488/) &middot; `apr, 12th` 🎥
+
 ### [Syk pike](www.imdb.com/it/title/tt18816518/) &middot; `apr, 8th`
 
 ### [The Drama](www.imdb.com/it/title/tt33071426/) &middot; `apr, 5th` 🎥
