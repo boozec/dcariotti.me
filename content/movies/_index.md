@@ -139,7 +139,7 @@ title = "Movies"
 
 ### [Gran Torino](https://www.imdb.com/title/tt1205489/) &middot; `may, 10th`
 
-### [Eden](https://www.imdb.com/title/tt23149780/) &middot; `apr, 11th`
+### [Eden](https://www.imdb.com/title/tt23149780/) &middot; `apr, 11th` 🎥
 
 ### [Belfast](https://www.imdb.com/title/tt12789558/) &middot; `apr, 9th`
 
