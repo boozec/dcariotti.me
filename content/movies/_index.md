@@ -7,6 +7,14 @@ title = "Movies"
 
 ### [The Art of Racing in the Rain](www.imdb.com/it/title/tt1478839/) &middot; `may, 25th`
 
+### [Project Hail Mary](www.imdb.com/it/title/tt12042730/) &middot; `apr, 17th` 🎥
+
+### [The Super Mario Galaxy Movie](www.imdb.com/it/title/tt28650488/) &middot; `apr, 12th` 🎥
+
+### [Syk pike](www.imdb.com/it/title/tt18816518/) &middot; `apr, 8th`
+
+### [The Drama](www.imdb.com/it/title/tt33071426/) &middot; `apr, 5th` 🎥
+
 ### [Good Time](www.imdb.com/it/title/tt4846232/) &middot; `mar, 28th`
 
 ### [Peaky Blinders: The Immortal Man](www.imdb.com/it/title/tt15574124/) &middot; `mar, 28th`
@@ -133,7 +141,7 @@ title = "Movies"
 
 ### [Gran Torino](https://www.imdb.com/title/tt1205489/) &middot; `may, 10th`
 
-### [Eden](https://www.imdb.com/title/tt23149780/) &middot; `apr, 11th`
+### [Eden](https://www.imdb.com/title/tt23149780/) &middot; `apr, 11th` 🎥
 
 ### [Belfast](https://www.imdb.com/title/tt12789558/) &middot; `apr, 9th`
 
@@ -203,7 +211,7 @@ title = "Movies"
 
 ### [Babylon](https://www.imdb.com/title/tt10640346/) &middot; `aug, 6th`
 
-### [Deadpool & Wolverine](https://www.imdb.com/title/tt6263850/) &middot; `aug, 2nd`
+### [Deadpool & Wolverine](https://www.imdb.com/title/tt6263850/) &middot; `aug, 2nd` 🎥
 
 ### [Memories of a Geisha](https://www.imdb.com/title/tt0397535/) &middot; `jul, 27th`
 
