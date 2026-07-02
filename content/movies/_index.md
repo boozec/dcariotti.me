@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [It's Complicated](www.imdb.com/it/title/tt1230414/) &middot; `jun, 22th`
+
 ### [The Art of Racing in the Rain](www.imdb.com/it/title/tt1478839/) &middot; `may, 25th`
 
 ### [Project Hail Mary](www.imdb.com/it/title/tt12042730/) &middot; `apr, 17th` 🎥
