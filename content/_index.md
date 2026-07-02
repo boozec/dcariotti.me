@@ -5,7 +5,7 @@ title = "About"
 
 ## \# Who I am
 
-![me.jpg](/i/me.jpg)
+![me](/i/me.jpg)
 
 Hello, I am **Santo**, a Sicilian computer scientist who graduated with honours from the [University of Bologna](https://cs.unibo.it).
 

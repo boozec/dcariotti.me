@@ -12,7 +12,7 @@ render_emoji = true
 [extra]
 name = "Santo Cariotti"
 description = ""
-avatar = "/avatar.jpg"
+# avatar = "/avatar.jpg"
 social_git = "http://git.dcariotti.me"
 social_github = "boozec"
 # social_gitlab = "boozec"

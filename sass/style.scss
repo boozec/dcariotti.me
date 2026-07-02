@@ -101,14 +101,14 @@ p {
 }
 
 a {
-  color: $green !important;
+  color: $black !important;
   text-decoration: none;
   cursor: pointer;
   font-weight: 400;
   font-family: $gitlabmono;
   &:hover,
   &:active {
-    color: $green;
+    background: $green;
   }
 }
 
@@ -150,6 +150,12 @@ b {
 
 img {
   max-width: 100%;
+  &[alt=me] {
+    max-width: 300px;
+    @include mobile {
+      max-width: 100%;
+    }
+  }
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -201,7 +207,7 @@ img {
 }
 
 .masthead {
-  padding: 1em;
+  padding: 1em 0;
   border-radius: 2px;
   display: flex;
   width: 100%;
@@ -249,13 +255,15 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $gitlabmono;
-  font-size: 28px;
+  font-size: 35px;
   letter-spacing: 1px;
   line-height: 70px;
   
   a {
     font-weight: bold;
     border: none;
+    text-transform: uppercase;
+    background: $green;
   }
 }
 
@@ -297,17 +305,21 @@ nav {
     letter-spacing: 1px;
     font-weight: bold;
     &:hover {
-      color: $darkGray;
+      color: $black;
     }
 
     @include mobile {
       margin: 0 10px;
-      color: $green;
+      color: $black;
     }
   }
 
-  &.icons a {
-    margin-left: 10px;
+  &.icons {
+    margin-right: 0;
+
+    a {
+      margin-left: 10px;
+    }
   }
 
   i.fab,
@@ -393,7 +405,7 @@ footer {
 
 code {
   color: $black;
-  background: #A7F175;
+  background: $green;
   padding: 5px 10px;
   border-radius: 4px;
   font-family: $gitlabmono;
