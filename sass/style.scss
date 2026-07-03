@@ -151,9 +151,9 @@ b {
 img {
   max-width: 100%;
   &[alt=me] {
-    max-width: 300px;
+    max-width: 256px;
     @include mobile {
-      max-width: 100%;
+      max-width: 200px;
     }
   }
 }
