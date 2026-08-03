@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [The Odyssey](www.imdb.com/it/title/tt33764258/) &middot; `aug, 1st` 🎥
+
 ### [It's Complicated](www.imdb.com/it/title/tt1230414/) &middot; `jun, 22th`
 
 ### [The Art of Racing in the Rain](www.imdb.com/it/title/tt1478839/) &middot; `may, 25th`
