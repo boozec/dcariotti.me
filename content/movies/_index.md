@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [Friends with Benefits](www.imdb.com/it/title/tt1632708/) &middot; `aug, 30th`
+
 ### [Il Ciclone](www.imdb.com/it/title/tt0115899/) &middot; `aug, 12th`
 
 ### [The Odyssey](www.imdb.com/it/title/tt33764258/) &middot; `aug, 1st` 🎥
