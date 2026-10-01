@@ -5,6 +5,10 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [The Invite](www.imdb.com/it/title/tt14173636/) &middot; `sep, 26th`
+
+### [Serpenti](www.imdb.com/it/title/tt38574284/) &middot; `sep, 25th`
+
 ### [The Fast and the Furious: Tokyo Drift](www.imdb.com/it/title/tt0463985/) &middot; `sep, 1st`
 
 ### [Friends with Benefits](www.imdb.com/it/title/tt1632708/) &middot; `aug, 30th`
