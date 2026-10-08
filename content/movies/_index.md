@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [Digger](www.imdb.com/it/title/tt31450459/) &middot; `oct, 7th` 🎥
+
 ### [The Invite](www.imdb.com/it/title/tt14173636/) &middot; `sep, 26th` 🎥
 
 ### [Serpenti](www.imdb.com/it/title/tt38574284/) &middot; `sep, 25th` 🎥
