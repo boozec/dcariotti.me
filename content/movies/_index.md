@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [Primetime](www.imdb.com/it/title/tt34206385/) &middot; `oct, 17th` 🎥
+
 ### [The Damned United](www.imdb.com/it/title/tt1226271/) &middot; `oct, 11th`
 
 ### [The Social Reckoning](www.imdb.com/it/title/tt37510326/) &middot; `oct, 10th` 🎥
