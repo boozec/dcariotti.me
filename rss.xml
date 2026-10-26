@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title></title>
+      <link>https://dcariotti.me</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://dcariotti.me/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>hello, world</title>
+          <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://dcariotti.me/blog/hello-world/</link>
+          <guid>https://dcariotti.me/blog/hello-world/</guid>
+          <description xml:base="https://dcariotti.me/blog/hello-world/">&lt;p&gt;hi, this is me with my new (first) blog 🤓&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;media.tenor.com&#x2F;images&#x2F;df8c44a1d20ab367fdcb21880985fd33&#x2F;tenor.gif&quot; alt=&quot;cat&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
