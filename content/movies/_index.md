@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [Kneecap](www.imdb.com/it/title/tt27367464/) &middot; `nov, 1st`
+
 ### [Cars](www.imdb.com/it/title/tt0317219/) &middot; `oct, 25th`
 
 ### [Primetime](www.imdb.com/it/title/tt34206385/) &middot; `oct, 17th` 🎥
