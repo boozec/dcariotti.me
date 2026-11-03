@@ -5,6 +5,8 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [The Banshees of Inisherin](www.imdb.com/it/title/tt11813216/) &middot; `nov, 2nd`
+
 ### [Kneecap](www.imdb.com/it/title/tt27367464/) &middot; `nov, 1st`
 
 ### [Cars](www.imdb.com/it/title/tt0317219/) &middot; `oct, 25th`
