@@ -5,6 +5,10 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [L'Estranea](www.imdb.com/it/title/tt23411728/) &middot; `nov, 8th` 🎥
+
+### [The Batman](www.imdb.com/it/title/tt1877830/) &middot; `nov, 7th`
+
 ### [The Banshees of Inisherin](www.imdb.com/it/title/tt11813216/) &middot; `nov, 2nd`
 
 ### [Kneecap](www.imdb.com/it/title/tt27367464/) &middot; `nov, 1st`
