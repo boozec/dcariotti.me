@@ -5,7 +5,9 @@ title = "Movies"
 
 ## \#\# 2026
 
-### [L'Estranea](www.imdb.com/it/title/tt23411728/) &middot; `nov, 8th` 🎥
+### [Wild Horse Nine](www.imdb.com/it/title/tt15799564/) &middot; `nov, 14th` 🎥
+
+### [L'estranea](www.imdb.com/it/title/tt23411728/) &middot; `nov, 8th` 🎥
 
 ### [The Batman](www.imdb.com/it/title/tt1877830/) &middot; `nov, 7th`
 
