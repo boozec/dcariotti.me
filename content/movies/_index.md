@@ -5,6 +5,14 @@ title = "Movies"
 
 ## \#\# 2026
 
+### [Festa in Famiglia](www.imdb.com/it/title/tt37727461/) &middot; `nov, 22nd`
+
+### [Latte](www.imdb.com/it/title/tt38279069/) &middot; `nov, 22nd`
+
+### [Olive](www.imdb.com/it/title/tt46657235/) &middot; `nov, 22nd`
+
+### [Toy Story](www.imdb.com/it/title/tt0114709/) &middot; `nov, 21th`
+
 ### [Wild Horse Nine](www.imdb.com/it/title/tt15799564/) &middot; `nov, 14th` 🎥
 
 ### [L'estranea](www.imdb.com/it/title/tt23411728/) &middot; `nov, 8th` 🎥
